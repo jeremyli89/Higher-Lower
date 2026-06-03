@@ -1,7 +1,7 @@
 'use strict';
 
 // ── Supabase ──────────────────────────────────────────────────────────────────
-const supabase = window.supabase.createClient(
+const db = window.supabase.createClient(
   'https://rcpwpegdggewuhnfyxxp.supabase.co',
   'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJjcHdwZWdkZ2dld3VobmZ5eHhwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA0MzkzOTgsImV4cCI6MjA5NjAxNTM5OH0.th-YoFns1SvQjqpQ-NGEONxMvrL0kjTjN2t5yJitXSY'
 );
@@ -22,11 +22,12 @@ function getNextAttempt() {
 }
 
 async function submitScore(score) {
-  await supabase.from('scores').insert({
+  const { error } = await db.from('scores').insert({
     anon_id: getAnonId(),
     score,
     attempt_number: getNextAttempt(),
   });
+  if (error) console.error('Supabase insert failed:', error.message);
 }
 
 // ── DOM refs ──────────────────────────────────────────────────────────────────
