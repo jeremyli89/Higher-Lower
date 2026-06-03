@@ -1,5 +1,34 @@
 'use strict';
 
+// ── Supabase ──────────────────────────────────────────────────────────────────
+const supabase = window.supabase.createClient(
+  'https://rcpwpegdggewuhnfyxxp.supabase.co',
+  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJjcHdwZWdkZ2dld3VobmZ5eHhwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA0MzkzOTgsImV4cCI6MjA5NjAxNTM5OH0.th-YoFns1SvQjqpQ-NGEONxMvrL0kjTjN2t5yJitXSY'
+);
+
+function getAnonId() {
+  let id = localStorage.getItem('higherLowerAnonId');
+  if (!id) {
+    id = crypto.randomUUID();
+    localStorage.setItem('higherLowerAnonId', id);
+  }
+  return id;
+}
+
+function getNextAttempt() {
+  const n = Number(localStorage.getItem('higherLowerAttempts') || 0) + 1;
+  localStorage.setItem('higherLowerAttempts', n);
+  return n;
+}
+
+async function submitScore(score) {
+  await supabase.from('scores').insert({
+    anon_id: getAnonId(),
+    score,
+    attempt_number: getNextAttempt(),
+  });
+}
+
 // ── DOM refs ──────────────────────────────────────────────────────────────────
 const loadingOverlay  = document.getElementById('loading-overlay');
 const gameoverOverlay = document.getElementById('gameover-overlay');
@@ -170,6 +199,7 @@ function handleGuess(direction) {
       finalScoreEl.textContent     = score;
       finalHighScoreEl.textContent = highScore;
       gameoverOverlay.classList.remove('hidden');
+      submitScore(score);
     }, 1500);
   }
 }
