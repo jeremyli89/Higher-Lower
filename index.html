@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Higher or Lower — Pokémon GO Great League</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div id="loading-overlay">
+    <div class="spinner"></div>
+    <p>Loading Pokémon data…</p>
+  </div>
+
+  <div id="gameover-overlay" class="hidden">
+    <div class="gameover-box">
+      <h2>Game Over</h2>
+      <p class="go-score">Score: <span id="final-score">0</span></p>
+      <p class="go-best">Best: <span id="final-high-score">0</span></p>
+      <button id="btn-restart">Play Again</button>
+    </div>
+  </div>
+
+  <header>
+    <h1>Higher or Lower?</h1>
+    <p class="subtitle">Pokémon GO Great League — Attack Stat at Rank&nbsp;1&nbsp;IVs</p>
+    <div class="score-row">
+      <span>Score: <strong id="score">0</strong></span>
+      <span>Best: <strong id="high-score">0</strong></span>
+    </div>
+  </header>
+
+  <div class="pool-selector">
+    <label for="pool-select">Pool:</label>
+    <select id="pool-select">
+      <option value="100">Top 100</option>
+      <option value="200">Top 200</option>
+      <option value="500" selected>Top 500</option>
+      <option value="9999">All</option>
+    </select>
+  </div>
+
+  <main id="game-area">
+    <div class="card" id="card-left">
+      <img class="pokemon-sprite" id="left-img" alt="" />
+      <h2 class="pokemon-name" id="left-name"></h2>
+      <div class="stat-label">Attack Stat</div>
+      <div class="stat-value" id="left-stat"></div>
+    </div>
+
+    <div id="vs-divider">VS</div>
+
+    <div class="card" id="card-right">
+      <img class="pokemon-sprite" id="right-img" alt="" />
+      <h2 class="pokemon-name" id="right-name"></h2>
+      <div class="stat-label">Attack Stat</div>
+      <div class="stat-value stat-hidden" id="right-stat">???</div>
+    </div>
+  </main>
+
+  <section id="controls">
+    <button id="btn-higher">Higher ▲</button>
+    <button id="btn-lower">Lower ▼</button>
+    <button id="btn-next" class="hidden">Next →</button>
+  </section>
+
+  <div id="result-message" class="hidden"></div>
+
+  <!-- Inline pokeball SVG used as fallback for missing sprites -->
+  <svg id="pokeball-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" style="display:none">
+    <circle cx="50" cy="50" r="48" fill="#fff" stroke="#222" stroke-width="4"/>
+    <path d="M2 50 Q2 2 50 2 Q98 2 98 50Z" fill="#e63946"/>
+    <rect x="2" y="47" width="96" height="6" fill="#222"/>
+    <circle cx="50" cy="50" r="12" fill="#fff" stroke="#222" stroke-width="4"/>
+    <circle cx="50" cy="50" r="6" fill="#ccc"/>
+  </svg>
+
+  <script src="game.js"></script>
+</body>
+</html>

@@ -1,0 +1,278 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:        #1a1a2e;
+  --card-bg:   #16213e;
+  --card-grad: linear-gradient(135deg, #16213e 0%, #0f3460 100%);
+  --border:    #0f3460;
+  --accent:    #e63946;
+  --blue:      #457b9d;
+  --gold:      #ffd700;
+  --text:      #e0e0e0;
+  --muted:     #8899aa;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+}
+
+/* ── Header ── */
+header {
+  text-align: center;
+  margin-bottom: 12px;
+}
+header h1 {
+  font-size: 2rem;
+  font-weight: 900;
+  letter-spacing: -0.5px;
+}
+.subtitle {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 4px;
+}
+.score-row {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  margin-top: 8px;
+  font-size: 1rem;
+}
+.score-row strong { color: var(--gold); }
+
+/* ── Pool selector ── */
+.pool-selector {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 20px;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+.pool-selector select {
+  background: var(--card-bg);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 4px 10px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.pool-selector select:focus { outline: 2px solid var(--blue); }
+
+/* ── Game area ── */
+#game-area {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  max-width: 760px;
+  justify-content: center;
+}
+
+/* ── Cards ── */
+.card {
+  background: var(--card-grad);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+  padding: 24px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 280px;
+  min-height: 320px;
+  transition: border-color 0.3s, box-shadow 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+.card.correct {
+  border-color: #2dc653;
+  animation: pulse-green 0.6s ease-out;
+}
+.card.wrong {
+  border-color: var(--accent);
+  animation: pulse-red 0.6s ease-out;
+}
+.card.card-enter {
+  animation: slide-in-left 0.35s ease-out;
+}
+
+.pokemon-sprite {
+  width: 160px;
+  height: 160px;
+  object-fit: contain;
+  image-rendering: auto;
+}
+
+.pokemon-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 10px;
+  min-height: 2.6em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stat-label {
+  font-size: 0.75rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 8px;
+}
+
+.stat-value {
+  font-size: 2.4rem;
+  font-weight: 900;
+  color: var(--gold);
+  margin-top: 4px;
+  transition: opacity 0.4s, transform 0.4s;
+}
+
+.stat-hidden {
+  color: var(--muted);
+  font-size: 2rem;
+}
+
+.stat-revealed {
+  animation: stat-pop 0.4s ease-out;
+}
+
+/* ── VS divider ── */
+#vs-divider {
+  font-size: 1.4rem;
+  font-weight: 900;
+  color: var(--muted);
+  flex-shrink: 0;
+}
+
+/* ── Controls ── */
+#controls {
+  display: flex;
+  gap: 12px;
+  margin-top: 24px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  padding: 12px 32px;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.1s, opacity 0.2s;
+}
+button:active { transform: scale(0.96); }
+button:disabled { opacity: 0.35; cursor: default; }
+
+#btn-higher { background: var(--accent); color: #fff; }
+#btn-lower  { background: var(--blue);   color: #fff; }
+#btn-next   { background: #2dc653;       color: #fff; }
+#btn-restart{ background: var(--accent); color: #fff; margin-top: 12px; padding: 12px 40px; font-size: 1rem; }
+
+.hidden { display: none !important; }
+
+/* ── Result message ── */
+#result-message {
+  margin-top: 14px;
+  font-size: 1.2rem;
+  font-weight: 700;
+  min-height: 1.6em;
+  text-align: center;
+}
+#result-message.correct-msg { color: #2dc653; }
+#result-message.wrong-msg   { color: var(--accent); }
+
+/* ── Loading overlay ── */
+#loading-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  z-index: 100;
+  font-size: 1rem;
+  color: var(--muted);
+}
+.spinner {
+  width: 48px;
+  height: 48px;
+  border: 4px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+/* ── Game over overlay ── */
+#gameover-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(10,10,20,0.88);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 50;
+}
+.gameover-box {
+  background: var(--card-grad);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 40px 56px;
+  text-align: center;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.7);
+}
+.gameover-box h2 { font-size: 2rem; margin-bottom: 16px; }
+.go-score { font-size: 1.4rem; }
+.go-best  { font-size: 1rem; color: var(--muted); margin-top: 4px; }
+.go-score strong, .go-best strong { color: var(--gold); }
+
+/* ── Keyframes ── */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+@keyframes stat-pop {
+  0%   { opacity: 0; transform: scale(0.7); }
+  60%  { transform: scale(1.1); }
+  100% { opacity: 1; transform: scale(1); }
+}
+@keyframes pulse-green {
+  0%   { box-shadow: 0 0 0 0 rgba(45,198,83,0.7); }
+  70%  { box-shadow: 0 0 0 12px rgba(45,198,83,0); }
+  100% { box-shadow: 0 0 0 0 rgba(45,198,83,0); }
+}
+@keyframes pulse-red {
+  0%   { box-shadow: 0 0 0 0 rgba(230,57,70,0.7); }
+  70%  { box-shadow: 0 0 0 12px rgba(230,57,70,0); }
+  100% { box-shadow: 0 0 0 0 rgba(230,57,70,0); }
+}
+@keyframes slide-in-left {
+  from { opacity: 0; transform: translateX(-40px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+/* ── Responsive ── */
+@media (max-width: 620px) {
+  #game-area {
+    flex-direction: column;
+    gap: 12px;
+  }
+  .card { width: 100%; max-width: 340px; min-height: unset; }
+  #vs-divider { font-size: 1rem; }
+  header h1 { font-size: 1.5rem; }
+}
