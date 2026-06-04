@@ -3,2227 +3,2227 @@
     "speciesId": "lickilicky",
     "speciesName": "Lickilicky",
     "dex": 463,
-    "attackStat": 105.7
+    "attackStat": 104.2
   },
   {
     "speciesId": "feraligatr",
     "speciesName": "Feraligatr",
     "dex": 160,
-    "attackStat": 123.8
+    "attackStat": 122.4
   },
   {
     "speciesId": "altaria",
     "speciesName": "Altaria",
     "dex": 334,
-    "attackStat": 103.4
+    "attackStat": 101.4
   },
   {
     "speciesId": "corsola_galarian",
     "speciesName": "Corsola (Galarian)",
     "dex": 222,
-    "attackStat": 99.3
+    "attackStat": 97.7
   },
   {
     "speciesId": "jellicent",
     "speciesName": "Jellicent",
     "dex": 593,
-    "attackStat": 106.6
+    "attackStat": 105.7
   },
   {
     "speciesId": "quagsire",
     "speciesName": "Quagsire",
     "dex": 195,
-    "attackStat": 111.2
+    "attackStat": 109.3
   },
   {
     "speciesId": "tinkaton",
     "speciesName": "Tinkaton",
     "dex": 959,
-    "attackStat": 106.2
+    "attackStat": 105.2
   },
   {
     "speciesId": "forretress",
     "speciesName": "Forretress",
     "dex": 205,
-    "attackStat": 109.7
+    "attackStat": 108.6
   },
   {
     "speciesId": "empoleon",
     "speciesName": "Empoleon",
     "dex": 395,
-    "attackStat": 125.1
+    "attackStat": 123.8
   },
   {
     "speciesId": "azumarill",
     "speciesName": "Azumarill",
     "dex": 184,
-    "attackStat": 93.4
+    "attackStat": 91.5
   },
   {
     "speciesId": "kingdra",
     "speciesName": "Kingdra",
     "dex": 230,
-    "attackStat": 121.8
+    "attackStat": 120.1
   },
   {
     "speciesId": "corviknight",
     "speciesName": "Corviknight",
     "dex": 823,
-    "attackStat": 106.9
+    "attackStat": 105.5
   },
   {
     "speciesId": "aegislash_shield",
     "speciesName": "Aegislash (Blade)",
     "dex": 681,
-    "attackStat": 82.8
+    "attackStat": 81.5
   },
   {
     "speciesId": "mantine",
     "speciesName": "Mantine",
     "dex": 226,
-    "attackStat": 105.5
+    "attackStat": 103.6
   },
   {
     "speciesId": "medicham",
     "speciesName": "Medicham",
     "dex": 308,
-    "attackStat": 106.9
+    "attackStat": 105.3
   },
   {
     "speciesId": "ninetales",
     "speciesName": "Ninetales",
     "dex": 38,
-    "attackStat": 114.3
+    "attackStat": 112.8
   },
   {
     "speciesId": "jumpluff",
     "speciesName": "Jumpluff",
     "dex": 189,
-    "attackStat": 96.7
+    "attackStat": 95
   },
   {
     "speciesId": "seaking",
     "speciesName": "Seaking",
     "dex": 119,
-    "attackStat": 121.9
+    "attackStat": 120.3
   },
   {
     "speciesId": "guzzlord",
     "speciesName": "Guzzlord",
     "dex": 799,
-    "attackStat": 113.2
+    "attackStat": 111.4
   },
   {
     "speciesId": "malamar",
     "speciesName": "Malamar",
     "dex": 687,
-    "attackStat": 117.2
+    "attackStat": 117
   },
   {
     "speciesId": "stunfisk",
     "speciesName": "Stunfisk",
     "dex": 618,
-    "attackStat": 101.4
+    "attackStat": 99.9
   },
   {
     "speciesId": "talonflame",
     "speciesName": "Talonflame",
     "dex": 663,
-    "attackStat": 121.4
+    "attackStat": 119.8
   },
   {
     "speciesId": "clodsire",
     "speciesName": "Clodsire",
     "dex": 980,
-    "attackStat": 95
+    "attackStat": 93.3
   },
   {
     "speciesId": "sliggoo",
     "speciesName": "Sliggoo",
     "dex": 705,
-    "attackStat": 114.1
+    "attackStat": 113.1
   },
   {
     "speciesId": "lapras",
     "speciesName": "Lapras",
     "dex": 131,
-    "attackStat": 104.6
+    "attackStat": 103.3
   },
   {
     "speciesId": "dusclops",
     "speciesName": "Dusclops",
     "dex": 356,
-    "attackStat": 102.4
+    "attackStat": 101
   },
   {
     "speciesId": "sealeo",
     "speciesName": "Sealeo",
     "dex": 364,
-    "attackStat": 108.9
+    "attackStat": 106.7
   },
   {
     "speciesId": "greedent",
     "speciesName": "Greedent",
     "dex": 820,
-    "attackStat": 106.8
+    "attackStat": 105.7
   },
   {
     "speciesId": "grumpig",
     "speciesName": "Grumpig",
     "dex": 326,
-    "attackStat": 113.3
+    "attackStat": 112.5
   },
   {
     "speciesId": "pelipper",
     "speciesName": "Pelipper",
     "dex": 279,
-    "attackStat": 123.2
+    "attackStat": 121.4
   },
   {
     "speciesId": "annihilape",
     "speciesName": "Annihilape",
     "dex": 979,
-    "attackStat": 123.3
+    "attackStat": 122.2
   },
   {
     "speciesId": "sableye",
     "speciesName": "Sableye",
     "dex": 302,
-    "attackStat": 119.6
+    "attackStat": 118.1
   },
   {
     "speciesId": "charjabug",
     "speciesName": "Charjabug",
     "dex": 737,
-    "attackStat": 114.7
+    "attackStat": 113.3
   },
   {
     "speciesId": "cradily",
     "speciesName": "Cradily",
     "dex": 346,
-    "attackStat": 105.2
+    "attackStat": 103.5
   },
   {
     "speciesId": "stunfisk_galarian",
     "speciesName": "Stunfisk (Galarian)",
     "dex": 618,
-    "attackStat": 101.4
+    "attackStat": 99.9
   },
   {
     "speciesId": "blastoise",
     "speciesName": "Blastoise",
     "dex": 9,
-    "attackStat": 112.1
+    "attackStat": 110.1
   },
   {
     "speciesId": "clefable",
     "speciesName": "Clefable",
     "dex": 36,
-    "attackStat": 116.5
+    "attackStat": 115.2
   },
   {
     "speciesId": "florges",
     "speciesName": "Florges",
     "dex": 671,
-    "attackStat": 120
+    "attackStat": 118.4
   },
   {
     "speciesId": "lumineon",
     "speciesName": "Lumineon",
     "dex": 457,
-    "attackStat": 109
+    "attackStat": 107.7
   },
   {
     "speciesId": "melmetal",
     "speciesName": "Melmetal",
     "dex": 809,
-    "attackStat": 120.9
+    "attackStat": 119.3
   },
   {
     "speciesId": "milotic",
     "speciesName": "Milotic",
     "dex": 350,
-    "attackStat": 113.1
+    "attackStat": 111.7
   },
   {
     "speciesId": "morpeko_full_belly",
     "speciesName": "Morpeko (Hangry)",
     "dex": 877,
-    "attackStat": 140.4
+    "attackStat": 138.8
   },
   {
     "speciesId": "castform_sunny",
     "speciesName": "Castform (Sunny)",
     "dex": 351,
-    "attackStat": 112.6
+    "attackStat": 110.8
   },
   {
     "speciesId": "dondozo",
     "speciesName": "Dondozo",
     "dex": 977,
-    "attackStat": 104.5
+    "attackStat": 102.4
   },
   {
     "speciesId": "furret",
     "speciesName": "Furret",
     "dex": 162,
-    "attackStat": 115.3
+    "attackStat": 113.9
   },
   {
     "speciesId": "gastrodon",
     "speciesName": "Gastrodon",
     "dex": 423,
-    "attackStat": 113.2
+    "attackStat": 112.4
   },
   {
     "speciesId": "moltres_galarian",
     "speciesName": "Moltres (Galarian)",
     "dex": 146,
-    "attackStat": 115.1
+    "attackStat": 114.4
   },
   {
     "speciesId": "shelgon",
     "speciesName": "Shelgon",
     "dex": 372,
-    "attackStat": 123.2
+    "attackStat": 122.2
   },
   {
     "speciesId": "fearow",
     "speciesName": "Fearow",
     "dex": 22,
-    "attackStat": 131.4
+    "attackStat": 129.7
   },
   {
     "speciesId": "mandibuzz",
     "speciesName": "Mandibuzz",
     "dex": 630,
-    "attackStat": 92.1
+    "attackStat": 90.3
   },
   {
     "speciesId": "ninetales_alolan",
     "speciesName": "Ninetales (Alolan)",
     "dex": 38,
-    "attackStat": 114.5
+    "attackStat": 113.5
   },
   {
     "speciesId": "oinkologne_female",
     "speciesName": "Oinkologne (Female)",
     "dex": 916,
-    "attackStat": 109.6
+    "attackStat": 108.2
   },
   {
     "speciesId": "aromatisse",
     "speciesName": "Aromatisse",
     "dex": 683,
-    "attackStat": 115.8
+    "attackStat": 114.3
   },
   {
     "speciesId": "dewgong",
     "speciesName": "Dewgong",
     "dex": 87,
-    "attackStat": 101.9
+    "attackStat": 100.8
   },
   {
     "speciesId": "diggersby",
     "speciesName": "Diggersby",
     "dex": 660,
-    "attackStat": 95.7
+    "attackStat": 94.4
   },
   {
     "speciesId": "morgrem",
     "speciesName": "Morgrem",
     "dex": 860,
-    "attackStat": 124.8
+    "attackStat": 123
   },
   {
     "speciesId": "swampert",
     "speciesName": "Swampert",
     "dex": 260,
-    "attackStat": 122.9
+    "attackStat": 121
   },
   {
     "speciesId": "wigglytuff",
     "speciesName": "Wigglytuff",
     "dex": 40,
-    "attackStat": 115.1
+    "attackStat": 114.1
   },
   {
     "speciesId": "golisopod",
     "speciesName": "Golisopod",
     "dex": 768,
-    "attackStat": 124
+    "attackStat": 123.5
   },
   {
     "speciesId": "bastiodon",
     "speciesName": "Bastiodon",
     "dex": 411,
-    "attackStat": 80.6
+    "attackStat": 78.9
   },
   {
     "speciesId": "umbreon",
     "speciesName": "Umbreon",
     "dex": 197,
-    "attackStat": 90.2
+    "attackStat": 88.2
   },
   {
     "speciesId": "dunsparce",
     "speciesName": "Dunsparce",
     "dex": 206,
-    "attackStat": 104.7
+    "attackStat": 103.5
   },
   {
     "speciesId": "dusknoir",
     "speciesName": "Dusknoir",
     "dex": 477,
-    "attackStat": 119.8
+    "attackStat": 117.7
   },
   {
     "speciesId": "gourgeist_large",
     "speciesName": "Gourgeist (Large)",
     "dex": 711,
-    "attackStat": 115.9
+    "attackStat": 114
   },
   {
     "speciesId": "gourgeist_super",
     "speciesName": "Gourgeist (Super)",
     "dex": 711,
-    "attackStat": 115
+    "attackStat": 113.3
   },
   {
     "speciesId": "oranguru",
     "speciesName": "Oranguru",
     "dex": 765,
-    "attackStat": 110.1
+    "attackStat": 108.7
   },
   {
     "speciesId": "registeel",
     "speciesName": "Registeel",
     "dex": 379,
-    "attackStat": 95.6
+    "attackStat": 93.5
   },
   {
     "speciesId": "turtonator",
     "speciesName": "Turtonator",
     "dex": 776,
-    "attackStat": 113.5
+    "attackStat": 112.3
   },
   {
     "speciesId": "dragonair",
     "speciesName": "Dragonair",
     "dex": 148,
-    "attackStat": 125.2
+    "attackStat": 123.9
   },
   {
     "speciesId": "gourgeist_average",
     "speciesName": "Gourgeist (Average)",
     "dex": 711,
-    "attackStat": 115.9
+    "attackStat": 114.5
   },
   {
     "speciesId": "bellibolt",
     "speciesName": "Bellibolt",
     "dex": 939,
-    "attackStat": 115
+    "attackStat": 113.9
   },
   {
     "speciesId": "cresselia",
     "speciesName": "Cresselia",
     "dex": 488,
-    "attackStat": 93.1
+    "attackStat": 91.9
   },
   {
     "speciesId": "gligar",
     "speciesName": "Gligar",
     "dex": 207,
-    "attackStat": 108.4
+    "attackStat": 107.2
   },
   {
     "speciesId": "spidops",
     "speciesName": "Spidops",
     "dex": 918,
-    "attackStat": 110.9
+    "attackStat": 109.4
   },
   {
     "speciesId": "toucannon",
     "speciesName": "Toucannon",
     "dex": 733,
-    "attackStat": 137.2
+    "attackStat": 135.8
   },
   {
     "speciesId": "doublade",
     "speciesName": "Doublade",
     "dex": 680,
-    "attackStat": 122.9
+    "attackStat": 121.7
   },
   {
     "speciesId": "miltank",
     "speciesName": "Miltank",
     "dex": 241,
-    "attackStat": 105.3
+    "attackStat": 103.8
   },
   {
     "speciesId": "samurott",
     "speciesName": "Samurott",
     "dex": 503,
-    "attackStat": 128
+    "attackStat": 126.6
   },
   {
     "speciesId": "aurorus",
     "speciesName": "Aurorus",
     "dex": 699,
-    "attackStat": 113.5
+    "attackStat": 112.4
   },
   {
     "speciesId": "gourgeist_small",
     "speciesName": "Gourgeist (Small)",
     "dex": 711,
-    "attackStat": 116.8
+    "attackStat": 115.3
   },
   {
     "speciesId": "hydreigon",
     "speciesName": "Hydreigon",
     "dex": 635,
-    "attackStat": 136
+    "attackStat": 134.6
   },
   {
     "speciesId": "swalot",
     "speciesName": "Swalot",
     "dex": 317,
-    "attackStat": 103.4
+    "attackStat": 101.5
   },
   {
     "speciesId": "sylveon",
     "speciesName": "Sylveon",
     "dex": 700,
-    "attackStat": 117.3
+    "attackStat": 116.6
   },
   {
     "speciesId": "togekiss",
     "speciesName": "Togekiss",
     "dex": 468,
-    "attackStat": 124.2
+    "attackStat": 123.9
   },
   {
     "speciesId": "drapion",
     "speciesName": "Drapion",
     "dex": 452,
-    "attackStat": 117.8
+    "attackStat": 116.5
   },
   {
     "speciesId": "sandslash_alolan",
     "speciesName": "Sandslash (Alolan)",
     "dex": 28,
-    "attackStat": 115.9
+    "attackStat": 114.6
   },
   {
     "speciesId": "crustle",
     "speciesName": "Crustle",
     "dex": 558,
-    "attackStat": 120.3
+    "attackStat": 119.1
   },
   {
     "speciesId": "ludicolo",
     "speciesName": "Ludicolo",
     "dex": 272,
-    "attackStat": 116.4
+    "attackStat": 114.3
   },
   {
     "speciesId": "pachirisu",
     "speciesName": "Pachirisu",
     "dex": 417,
-    "attackStat": 91.5
+    "attackStat": 92.1
   },
   {
     "speciesId": "emolga",
     "speciesName": "Emolga",
     "dex": 587,
-    "attackStat": 127.5
+    "attackStat": 125.6
   },
   {
     "speciesId": "bronzong",
     "speciesName": "Bronzong",
     "dex": 437,
-    "attackStat": 110.8
+    "attackStat": 109.2
   },
   {
     "speciesId": "hippowdon",
     "speciesName": "Hippowdon",
     "dex": 450,
-    "attackStat": 116.1
+    "attackStat": 115.4
   },
   {
     "speciesId": "hakamo_o",
     "speciesName": "Hakamo-o",
     "dex": 783,
-    "attackStat": 115.5
+    "attackStat": 113.7
   },
   {
     "speciesId": "kommo_o",
     "speciesName": "Kommo-o",
     "dex": 784,
-    "attackStat": 123.7
+    "attackStat": 122.2
   },
   {
     "speciesId": "klefki",
     "speciesName": "Klefki",
     "dex": 707,
-    "attackStat": 117.9
+    "attackStat": 116
   },
   {
     "speciesId": "carbink",
     "speciesName": "Carbink",
     "dex": 703,
-    "attackStat": 84
+    "attackStat": 83.4
   },
   {
     "speciesId": "lanturn",
     "speciesName": "Lanturn",
     "dex": 171,
-    "attackStat": 104.8
+    "attackStat": 103.2
   },
   {
     "speciesId": "thievul",
     "speciesName": "Thievul",
     "dex": 828,
-    "attackStat": 119.8
+    "attackStat": 119.3
   },
   {
     "speciesId": "weezing_galarian",
     "speciesName": "Weezing (Galarian)",
     "dex": 110,
-    "attackStat": 117.6
+    "attackStat": 116.2
   },
   {
     "speciesId": "dragalge",
     "speciesName": "Dragalge",
     "dex": 691,
-    "attackStat": 117.8
+    "attackStat": 115.8
   },
   {
     "speciesId": "wormadam_trash",
     "speciesName": "Wormadam (Trash)",
     "dex": 413,
-    "attackStat": 104.9
+    "attackStat": 103.2
   },
   {
     "speciesId": "araquanid",
     "speciesName": "Araquanid",
     "dex": 752,
-    "attackStat": 97.4
+    "attackStat": 95.9
   },
   {
     "speciesId": "toxapex",
     "speciesName": "Toxapex",
     "dex": 748,
-    "attackStat": 91.9
+    "attackStat": 90.3
   },
   {
     "speciesId": "gyarados",
     "speciesName": "Gyarados",
     "dex": 130,
-    "attackStat": 130.7
+    "attackStat": 128.6
   },
   {
     "speciesId": "abomasnow",
     "speciesName": "Abomasnow",
     "dex": 460,
-    "attackStat": 117.8
+    "attackStat": 116.4
   },
   {
     "speciesId": "dewott",
     "speciesName": "Dewott",
     "dex": 502,
-    "attackStat": 122.6
+    "attackStat": 122
   },
   {
     "speciesId": "primeape",
     "speciesName": "Primeape",
     "dex": 57,
-    "attackStat": 138.7
+    "attackStat": 137.5
   },
   {
     "speciesId": "regidrago",
     "speciesName": "Regidrago",
     "dex": 895,
-    "attackStat": 121.8
+    "attackStat": 117.5
   },
   {
     "speciesId": "walrein",
     "speciesName": "Walrein",
     "dex": 365,
-    "attackStat": 112.4
+    "attackStat": 111.4
   },
   {
     "speciesId": "goodra",
     "speciesName": "Goodra",
     "dex": 706,
-    "attackStat": 119.6
+    "attackStat": 118
   },
   {
     "speciesId": "orthworm",
     "speciesName": "Orthworm",
     "dex": 968,
-    "attackStat": 109.1
+    "attackStat": 107.5
   },
   {
     "speciesId": "zweilous",
     "speciesName": "Zweilous",
     "dex": 634,
-    "attackStat": 120.4
+    "attackStat": 118.7
   },
   {
     "speciesId": "qwilfish",
     "speciesName": "Qwilfish",
     "dex": 211,
-    "attackStat": 131.1
+    "attackStat": 130
   },
   {
     "speciesId": "spiritomb",
     "speciesName": "Spiritomb",
     "dex": 442,
-    "attackStat": 120.7
+    "attackStat": 118.3
   },
   {
     "speciesId": "cradily_b",
     "speciesName": "Cradily",
     "dex": 346,
-    "attackStat": 105.2
+    "attackStat": 103.5
   },
   {
     "speciesId": "ledian",
     "speciesName": "Ledian",
     "dex": 166,
-    "attackStat": 101.3
+    "attackStat": 100.5
   },
   {
     "speciesId": "raikou",
     "speciesName": "Raikou",
     "dex": 243,
-    "attackStat": 131.9
+    "attackStat": 130.3
   },
   {
     "speciesId": "steelix",
     "speciesName": "Steelix",
     "dex": 208,
-    "attackStat": 98.4
+    "attackStat": 96.8
   },
   {
     "speciesId": "amoonguss",
     "speciesName": "Amoonguss",
     "dex": 591,
-    "attackStat": 109.3
+    "attackStat": 107.5
   },
   {
     "speciesId": "dartrix",
     "speciesName": "Dartrix",
     "dex": 723,
-    "attackStat": 112.4
+    "attackStat": 110.2
   },
   {
     "speciesId": "dudunsparce",
     "speciesName": "Dudunsparce",
     "dex": 982,
-    "attackStat": 116.1
+    "attackStat": 115
   },
   {
     "speciesId": "seismitoad",
     "speciesName": "Seismitoad",
     "dex": 537,
-    "attackStat": 120.3
+    "attackStat": 118.4
   },
   {
     "speciesId": "electrode_hisuian",
     "speciesName": "Electrode (Hisuian)",
     "dex": 101,
-    "attackStat": 123.2
+    "attackStat": 121.7
   },
   {
     "speciesId": "lickitung",
     "speciesName": "Lickitung",
     "dex": 108,
-    "attackStat": 96.6
+    "attackStat": 96.9
   },
   {
     "speciesId": "dodrio",
     "speciesName": "Dodrio",
     "dex": 85,
-    "attackStat": 143.7
+    "attackStat": 142.6
   },
   {
     "speciesId": "linoone",
     "speciesName": "Linoone",
     "dex": 264,
-    "attackStat": 114.1
+    "attackStat": 112.2
   },
   {
     "speciesId": "castform_rainy",
     "speciesName": "Castform (Rainy)",
     "dex": 351,
-    "attackStat": 112.6
+    "attackStat": 110.8
   },
   {
     "speciesId": "latias",
     "speciesName": "Latias",
     "dex": 380,
-    "attackStat": 124.5
+    "attackStat": 121.8
   },
   {
     "speciesId": "marowak",
     "speciesName": "Marowak",
     "dex": 105,
-    "attackStat": 109.6
+    "attackStat": 108.3
   },
   {
     "speciesId": "marowak_alolan",
     "speciesName": "Marowak (Alolan)",
     "dex": 105,
-    "attackStat": 109.6
+    "attackStat": 108.3
   },
   {
     "speciesId": "metang",
     "speciesName": "Metang",
     "dex": 375,
-    "attackStat": 108.9
+    "attackStat": 107.4
   },
   {
     "speciesId": "pangoro",
     "speciesName": "Pangoro",
     "dex": 675,
-    "attackStat": 133.9
+    "attackStat": 133.3
   },
   {
     "speciesId": "pidgeot",
     "speciesName": "Pidgeot",
     "dex": 18,
-    "attackStat": 116.9
+    "attackStat": 115.2
   },
   {
     "speciesId": "torkoal",
     "speciesName": "Torkoal",
     "dex": 324,
-    "attackStat": 107.5
+    "attackStat": 105.7
   },
   {
     "speciesId": "primarina",
     "speciesName": "Primarina",
     "dex": 730,
-    "attackStat": 131.6
+    "attackStat": 129.6
   },
   {
     "speciesId": "solrock",
     "speciesName": "Solrock",
     "dex": 338,
-    "attackStat": 119.1
+    "attackStat": 117.6
   },
   {
     "speciesId": "dubwool",
     "speciesName": "Dubwool",
     "dex": 832,
-    "attackStat": 110.6
+    "attackStat": 108.9
   },
   {
     "speciesId": "politoed",
     "speciesName": "Politoed",
     "dex": 186,
-    "attackStat": 114
+    "attackStat": 112.6
   },
   {
     "speciesId": "greninja",
     "speciesName": "Greninja",
     "dex": 658,
-    "attackStat": 139.5
+    "attackStat": 138.3
   },
   {
     "speciesId": "ampharos",
     "speciesName": "Ampharos",
     "dex": 181,
-    "attackStat": 126.8
+    "attackStat": 126
   },
   {
     "speciesId": "articuno",
     "speciesName": "Articuno",
     "dex": 144,
-    "attackStat": 112.6
+    "attackStat": 110.8
   },
   {
     "speciesId": "swanna",
     "speciesName": "Swanna",
     "dex": 581,
-    "attackStat": 128.5
+    "attackStat": 127
   },
   {
     "speciesId": "tentacruel",
     "speciesName": "Tentacruel",
     "dex": 73,
-    "attackStat": 108.9
+    "attackStat": 108.1
   },
   {
     "speciesId": "tinkatuff",
     "speciesName": "Tinkatuff",
     "dex": 958,
-    "attackStat": 104.1
+    "attackStat": 104.8
   },
   {
     "speciesId": "claydol",
     "speciesName": "Claydol",
     "dex": 344,
-    "attackStat": 103.5
+    "attackStat": 101.5
   },
   {
     "speciesId": "raichu",
     "speciesName": "Raichu",
     "dex": 26,
-    "attackStat": 133.5
+    "attackStat": 131.4
   },
   {
     "speciesId": "golisopodsh",
     "speciesName": "Golisopod",
     "dex": 768,
-    "attackStat": 124
+    "attackStat": 123.5
   },
   {
     "speciesId": "vespiquen",
     "speciesName": "Vespiquen",
     "dex": 416,
-    "attackStat": 108.8
+    "attackStat": 107.1
   },
   {
     "speciesId": "arctibax",
     "speciesName": "Arctibax",
     "dex": 997,
-    "attackStat": 122.8
+    "attackStat": 121.1
   },
   {
     "speciesId": "hypno",
     "speciesName": "Hypno",
     "dex": 97,
-    "attackStat": 103.4
+    "attackStat": 101.7
   },
   {
     "speciesId": "castform",
     "speciesName": "Castform",
     "dex": 351,
-    "attackStat": 112.6
+    "attackStat": 110.8
   },
   {
     "speciesId": "gogoat",
     "speciesName": "Gogoat",
     "dex": 673,
-    "attackStat": 119.7
+    "attackStat": 118.2
   },
   {
     "speciesId": "noctowl",
     "speciesName": "Noctowl",
     "dex": 164,
-    "attackStat": 105.3
+    "attackStat": 104.1
   },
   {
     "speciesId": "drampa",
     "speciesName": "Drampa",
     "dex": 780,
-    "attackStat": 136.8
+    "attackStat": 136.2
   },
   {
     "speciesId": "gliscor",
     "speciesName": "Gliscor",
     "dex": 472,
-    "attackStat": 115.6
+    "attackStat": 113.8
   },
   {
     "speciesId": "murkrow",
     "speciesName": "Murkrow",
     "dex": 198,
-    "attackStat": 143.1
+    "attackStat": 141.3
   },
   {
     "speciesId": "bellossom",
     "speciesName": "Bellossom",
     "dex": 182,
-    "attackStat": 115
+    "attackStat": 113.5
   },
   {
     "speciesId": "mawile",
     "speciesName": "Mawile",
     "dex": 303,
-    "attackStat": 124.7
+    "attackStat": 123.2
   },
   {
     "speciesId": "lunatone",
     "speciesName": "Lunatone",
     "dex": 337,
-    "attackStat": 119.1
+    "attackStat": 117.6
   },
   {
     "speciesId": "qwilfish_hisuian",
     "speciesName": "Qwilfish (Hisuian)",
     "dex": 211,
-    "attackStat": 128
+    "attackStat": 126.5
   },
   {
     "speciesId": "starmie",
     "speciesName": "Starmie",
     "dex": 121,
-    "attackStat": 133.1
+    "attackStat": 131.5
   },
   {
     "speciesId": "cetitan",
     "speciesName": "Cetitan",
     "dex": 975,
-    "attackStat": 120.1
+    "attackStat": 118.4
   },
   {
     "speciesId": "cetoddle",
     "speciesName": "Cetoddle",
     "dex": 974,
-    "attackStat": 112.6
+    "attackStat": 113.2
   },
   {
     "speciesId": "rufflet",
     "speciesName": "Rufflet",
     "dex": 627,
-    "attackStat": 126.7
+    "attackStat": 124.5
   },
   {
     "speciesId": "zeraora",
     "speciesName": "Zeraora",
     "dex": 807,
-    "attackStat": 138.3
+    "attackStat": 136.7
   },
   {
     "speciesId": "grimmsnarl",
     "speciesName": "Grimmsnarl",
     "dex": 861,
-    "attackStat": 136.2
+    "attackStat": 134.4
   },
   {
     "speciesId": "nidoqueen",
     "speciesName": "Nidoqueen",
     "dex": 31,
-    "attackStat": 116.5
+    "attackStat": 115.3
   },
   {
     "speciesId": "dedenne",
     "speciesName": "Dedenne",
     "dex": 702,
-    "attackStat": 124.3
+    "attackStat": 122.9
   },
   {
     "speciesId": "klang",
     "speciesName": "Klang",
     "dex": 600,
-    "attackStat": 114
+    "attackStat": 112
   },
   {
     "speciesId": "blaziken",
     "speciesName": "Blaziken",
     "dex": 257,
-    "attackStat": 143.9
+    "attackStat": 142.1
   },
   {
     "speciesId": "rapidash",
     "speciesName": "Rapidash",
     "dex": 78,
-    "attackStat": 133.6
+    "attackStat": 132.6
   },
   {
     "speciesId": "machamp",
     "speciesName": "Machamp",
     "dex": 68,
-    "attackStat": 135.4
+    "attackStat": 134.4
   },
   {
     "speciesId": "runerigus",
     "speciesName": "Runerigus",
     "dex": 867,
-    "attackStat": 111.7
+    "attackStat": 109.9
   },
   {
     "speciesId": "samurott_hisuian",
     "speciesName": "Samurott (Hisuian)",
     "dex": 503,
-    "attackStat": 132.6
+    "attackStat": 130.2
   },
   {
     "speciesId": "togedemaru",
     "speciesName": "Togedemaru",
     "dex": 777,
-    "attackStat": 132.2
+    "attackStat": 130.6
   },
   {
     "speciesId": "uxie",
     "speciesName": "Uxie",
     "dex": 480,
-    "attackStat": 102.1
+    "attackStat": 99.9
   },
   {
     "speciesId": "throh",
     "speciesName": "Throh",
     "dex": 538,
-    "attackStat": 110.2
+    "attackStat": 109
   },
   {
     "speciesId": "flamigo",
     "speciesName": "Flamigo",
     "dex": 973,
-    "attackStat": 137.9
+    "attackStat": 137.2
   },
   {
     "speciesId": "gallade",
     "speciesName": "Gallade",
     "dex": 475,
-    "attackStat": 136.5
+    "attackStat": 134.2
   },
   {
     "speciesId": "cofagrigus",
     "speciesName": "Cofagrigus",
     "dex": 563,
-    "attackStat": 111.7
+    "attackStat": 109.9
   },
   {
     "speciesId": "overqwil",
     "speciesName": "Overqwil",
     "dex": 904,
-    "attackStat": 131
+    "attackStat": 129.8
   },
   {
     "speciesId": "zapdos",
     "speciesName": "Zapdos",
     "dex": 145,
-    "attackStat": 135.6
+    "attackStat": 135.1
   },
   {
     "speciesId": "coalossal",
     "speciesName": "Coalossal",
     "dex": 839,
-    "attackStat": 98.1
+    "attackStat": 97.1
   },
   {
     "speciesId": "slurpuff",
     "speciesName": "Slurpuff",
     "dex": 685,
-    "attackStat": 116
+    "attackStat": 115.1
   },
   {
     "speciesId": "wailmer",
     "speciesName": "Wailmer",
     "dex": 320,
-    "attackStat": 116.5
+    "attackStat": 114.6
   },
   {
     "speciesId": "slowbro",
     "speciesName": "Slowbro",
     "dex": 80,
-    "attackStat": 113.4
+    "attackStat": 112.1
   },
   {
     "speciesId": "toedscruel",
     "speciesName": "Toedscruel",
     "dex": 949,
-    "attackStat": 108.9
+    "attackStat": 108.1
   },
   {
     "speciesId": "victreebel",
     "speciesName": "Victreebel",
     "dex": 71,
-    "attackStat": 135.1
+    "attackStat": 133.2
   },
   {
     "speciesId": "drifblim",
     "speciesName": "Drifblim",
     "dex": 426,
-    "attackStat": 119.1
+    "attackStat": 117.7
   },
   {
     "speciesId": "togetic",
     "speciesName": "Togetic",
     "dex": 176,
-    "attackStat": 110.1
+    "attackStat": 108.6
   },
   {
     "speciesId": "urshifu_single_strike",
     "speciesName": "Urshifu (Single Strike)",
     "dex": 892,
-    "attackStat": 136.5
+    "attackStat": 133.5
   },
   {
     "speciesId": "jirachi",
     "speciesName": "Jirachi",
     "dex": 385,
-    "attackStat": 120.4
+    "attackStat": 117.3
   },
   {
     "speciesId": "kingambit",
     "speciesName": "Kingambit",
     "dex": 983,
-    "attackStat": 127.2
+    "attackStat": 125.1
   },
   {
     "speciesId": "oinkologne",
     "speciesName": "Oinkologne",
     "dex": 916,
-    "attackStat": 117.6
+    "attackStat": 116.5
   },
   {
     "speciesId": "mightyena",
     "speciesName": "Mightyena",
     "dex": 262,
-    "attackStat": 125.8
+    "attackStat": 124.7
   },
   {
     "speciesId": "scrafty",
     "speciesName": "Scrafty",
     "dex": 560,
-    "attackStat": 110.4
+    "attackStat": 109.9
   },
   {
     "speciesId": "wartortle",
     "speciesName": "Wartortle",
     "dex": 8,
-    "attackStat": 107.6
+    "attackStat": 105.8
   },
   {
     "speciesId": "hippopotas",
     "speciesName": "Hippopotas",
     "dex": 449,
-    "attackStat": 115.1
+    "attackStat": 113.7
   },
   {
     "speciesId": "kecleon",
     "speciesName": "Kecleon",
     "dex": 352,
-    "attackStat": 115.5
+    "attackStat": 113.8
   },
   {
     "speciesId": "conkeldurr",
     "speciesName": "Conkeldurr",
     "dex": 534,
-    "attackStat": 134
+    "attackStat": 133.5
   },
   {
     "speciesId": "golbat",
     "speciesName": "Golbat",
     "dex": 42,
-    "attackStat": 117.6
+    "attackStat": 116.8
   },
   {
     "speciesId": "trumbeak",
     "speciesName": "Trumbeak",
     "dex": 732,
-    "attackStat": 134
+    "attackStat": 132.4
   },
   {
     "speciesId": "venusaur",
     "speciesName": "Venusaur",
     "dex": 3,
-    "attackStat": 122.1
+    "attackStat": 121.2
   },
   {
     "speciesId": "munchlax",
     "speciesName": "Munchlax",
     "dex": 446,
-    "attackStat": 103.1
+    "attackStat": 101.8
   },
   {
     "speciesId": "skuntank",
     "speciesName": "Skuntank",
     "dex": 435,
-    "attackStat": 121.7
+    "attackStat": 120.4
   },
   {
     "speciesId": "glalie",
     "speciesName": "Glalie",
     "dex": 362,
-    "attackStat": 115.2
+    "attackStat": 113.4
   },
   {
     "speciesId": "piloswine",
     "speciesName": "Piloswine",
     "dex": 221,
-    "attackStat": 121
+    "attackStat": 119.6
   },
   {
     "speciesId": "whiscash",
     "speciesName": "Whiscash",
     "dex": 340,
-    "attackStat": 107.5
+    "attackStat": 106.7
   },
   {
     "speciesId": "bombirdier",
     "speciesName": "Bombirdier",
     "dex": 962,
-    "attackStat": 127.8
+    "attackStat": 126.8
   },
   {
     "speciesId": "castform_snowy",
     "speciesName": "Castform (Snowy)",
     "dex": 351,
-    "attackStat": 112.6
+    "attackStat": 110.8
   },
   {
     "speciesId": "froslass",
     "speciesName": "Froslass",
     "dex": 478,
-    "attackStat": 122.5
+    "attackStat": 120.8
   },
   {
     "speciesId": "servine",
     "speciesName": "Servine",
     "dex": 496,
-    "attackStat": 105.8
+    "attackStat": 105.3
   },
   {
     "speciesId": "slowking_galarian",
     "speciesName": "Slowking (Galarian)",
     "dex": 199,
-    "attackStat": 117.3
+    "attackStat": 116.3
   },
   {
     "speciesId": "lokix",
     "speciesName": "Lokix",
     "dex": 920,
-    "attackStat": 132.8
+    "attackStat": 131.5
   },
   {
     "speciesId": "palossand",
     "speciesName": "Palossand",
     "dex": 770,
-    "attackStat": 116.5
+    "attackStat": 115.2
   },
   {
     "speciesId": "marshtomp",
     "speciesName": "Marshtomp",
     "dex": 259,
-    "attackStat": 119.8
+    "attackStat": 118.8
   },
   {
     "speciesId": "scizor",
     "speciesName": "Scizor",
     "dex": 212,
-    "attackStat": 137.8
+    "attackStat": 136.1
   },
   {
     "speciesId": "magcargo",
     "speciesName": "Magcargo",
     "dex": 219,
-    "attackStat": 110.9
+    "attackStat": 108.6
   },
   {
     "speciesId": "amaura",
     "speciesName": "Amaura",
     "dex": 698,
-    "attackStat": 114.2
+    "attackStat": 113.2
   },
   {
     "speciesId": "electrode",
     "speciesName": "Electrode",
     "dex": 101,
-    "attackStat": 122.8
+    "attackStat": 120.7
   },
   {
     "speciesId": "lucario",
     "speciesName": "Lucario",
     "dex": 448,
-    "attackStat": 145.7
+    "attackStat": 143.3
   },
   {
     "speciesId": "pawmot",
     "speciesName": "Pawmot",
     "dex": 923,
-    "attackStat": 145
+    "attackStat": 143.2
   },
   {
     "speciesId": "trevenant",
     "speciesName": "Trevenant",
     "dex": 709,
-    "attackStat": 127.8
+    "attackStat": 125.9
   },
   {
     "speciesId": "barbaracle",
     "speciesName": "Barbaracle",
     "dex": 689,
-    "attackStat": 120.9
+    "attackStat": 120.1
   },
   {
     "speciesId": "flygon",
     "speciesName": "Flygon",
     "dex": 330,
-    "attackStat": 127.9
+    "attackStat": 126.9
   },
   {
     "speciesId": "magnezone",
     "speciesName": "Magnezone",
     "dex": 462,
-    "attackStat": 134.3
+    "attackStat": 133
   },
   {
     "speciesId": "armarouge",
     "speciesName": "Armarouge",
     "dex": 936,
-    "attackStat": 132.1
+    "attackStat": 130.7
   },
   {
     "speciesId": "dragonite",
     "speciesName": "Dragonite",
     "dex": 149,
-    "attackStat": 135.8
+    "attackStat": 135.3
   },
   {
     "speciesId": "sandshrew_alolan",
     "speciesName": "Sandshrew (Alolan)",
     "dex": 27,
-    "attackStat": 117.6
+    "attackStat": 118.3
   },
   {
     "speciesId": "wailord",
     "speciesName": "Wailord",
     "dex": 321,
-    "attackStat": 118.3
+    "attackStat": 116.8
   },
   {
     "speciesId": "orbeetle",
     "speciesName": "Orbeetle",
     "dex": 826,
-    "attackStat": 107.9
+    "attackStat": 106.2
   },
   {
     "speciesId": "regirock",
     "speciesName": "Regirock",
     "dex": 377,
-    "attackStat": 104.5
+    "attackStat": 102.8
   },
   {
     "speciesId": "skeledirge",
     "speciesName": "Skeledirge",
     "dex": 911,
-    "attackStat": 121.2
+    "attackStat": 119.4
   },
   {
     "speciesId": "snorlax",
     "speciesName": "Snorlax",
     "dex": 143,
-    "attackStat": 108.4
+    "attackStat": 106.7
   },
   {
     "speciesId": "farfetchd_galarian",
     "speciesName": "Farfetch'd (Galarian)",
     "dex": 83,
-    "attackStat": 137.6
+    "attackStat": 135.5
   },
   {
     "speciesId": "hawlucha",
     "speciesName": "Hawlucha",
     "dex": 701,
-    "attackStat": 127.4
+    "attackStat": 126.2
   },
   {
     "speciesId": "spinda",
     "speciesName": "Spinda",
     "dex": 327,
-    "attackStat": 110
+    "attackStat": 110.7
   },
   {
     "speciesId": "mew",
     "speciesName": "Mew",
     "dex": 151,
-    "attackStat": 120.4
+    "attackStat": 117.3
   },
   {
     "speciesId": "decidueye_hisuian",
     "speciesName": "Decidueye (Hisuian)",
     "dex": 724,
-    "attackStat": 126.9
+    "attackStat": 125.6
   },
   {
     "speciesId": "whimsicott",
     "speciesName": "Whimsicott",
     "dex": 547,
-    "attackStat": 118.7
+    "attackStat": 116.9
   },
   {
     "speciesId": "lugia",
     "speciesName": "Lugia",
     "dex": 249,
-    "attackStat": 102.4
+    "attackStat": 101.5
   },
   {
     "speciesId": "lurantis",
     "speciesName": "Lurantis",
     "dex": 754,
-    "attackStat": 126.2
+    "attackStat": 124.3
   },
   {
     "speciesId": "meganium",
     "speciesName": "Meganium",
     "dex": 154,
-    "attackStat": 110.8
+    "attackStat": 109.9
   },
   {
     "speciesId": "fletchinder",
     "speciesName": "Fletchinder",
     "dex": 662,
-    "attackStat": 123.3
+    "attackStat": 121.8
   },
   {
     "speciesId": "lileep",
     "speciesName": "Lileep",
     "dex": 345,
-    "attackStat": 100.8
+    "attackStat": 101.4
   },
   {
     "speciesId": "vullaby",
     "speciesName": "Vullaby",
     "dex": 629,
-    "attackStat": 100.8
+    "attackStat": 101.4
   },
   {
     "speciesId": "dachsbun",
     "speciesName": "Dachsbun",
     "dex": 927,
-    "attackStat": 113.4
+    "attackStat": 111.3
   },
   {
     "speciesId": "latios",
     "speciesName": "Latios",
     "dex": 381,
-    "attackStat": 139.3
+    "attackStat": 136.3
   },
   {
     "speciesId": "lopunny",
     "speciesName": "Lopunny",
     "dex": 428,
-    "attackStat": 112
+    "attackStat": 110.2
   },
   {
     "speciesId": "naclstack",
     "speciesName": "Naclstack",
     "dex": 933,
-    "attackStat": 100.8
+    "attackStat": 101.4
   },
   {
     "speciesId": "ursaring",
     "speciesName": "Ursaring",
     "dex": 217,
-    "attackStat": 139.6
+    "attackStat": 137.3
   },
   {
     "speciesId": "heracross",
     "speciesName": "Heracross",
     "dex": 214,
-    "attackStat": 134.6
+    "attackStat": 132.5
   },
   {
     "speciesId": "quaquaval",
     "speciesName": "Quaquaval",
     "dex": 914,
-    "attackStat": 137.7
+    "attackStat": 135.5
   },
   {
     "speciesId": "rapidash_galarian",
     "speciesName": "Rapidash (Galarian)",
     "dex": 78,
-    "attackStat": 133.6
+    "attackStat": 132.6
   },
   {
     "speciesId": "lairon",
     "speciesName": "Lairon",
     "dex": 305,
-    "attackStat": 113.8
+    "attackStat": 111.6
   },
   {
     "speciesId": "typhlosion",
     "speciesName": "Typhlosion",
     "dex": 157,
-    "attackStat": 132.7
+    "attackStat": 131.5
   },
   {
     "speciesId": "avalugg",
     "speciesName": "Avalugg",
     "dex": 713,
-    "attackStat": 111.7
+    "attackStat": 110.6
   },
   {
     "speciesId": "kartana",
     "speciesName": "Kartana",
     "dex": 798,
-    "attackStat": 169.1
+    "attackStat": 167.1
   },
   {
     "speciesId": "pumpkaboo_super",
     "speciesName": "Pumpkaboo (Super)",
     "dex": 710,
-    "attackStat": 111.7
+    "attackStat": 112.4
   },
   {
     "speciesId": "camerupt",
     "speciesName": "Camerupt",
     "dex": 323,
-    "attackStat": 133.5
+    "attackStat": 132.1
   },
   {
     "speciesId": "girafarig",
     "speciesName": "Girafarig",
     "dex": 203,
-    "attackStat": 130.3
+    "attackStat": 128.6
   },
   {
     "speciesId": "nidorina",
     "speciesName": "Nidorina",
     "dex": 30,
-    "attackStat": 110.9
+    "attackStat": 111.5
   },
   {
     "speciesId": "serperior",
     "speciesName": "Serperior",
     "dex": 497,
-    "attackStat": 110.2
+    "attackStat": 108.6
   },
   {
     "speciesId": "poliwrath",
     "speciesName": "Poliwrath",
     "dex": 62,
-    "attackStat": 115.8
+    "attackStat": 114
   },
   {
     "speciesId": "raichu_alolan",
     "speciesName": "Raichu (Alolan)",
     "dex": 26,
-    "attackStat": 135.4
+    "attackStat": 133.5
   },
   {
     "speciesId": "tropius",
     "speciesName": "Tropius",
     "dex": 357,
-    "attackStat": 101.4
+    "attackStat": 99.5
   },
   {
     "speciesId": "pawniard",
     "speciesName": "Pawniard",
     "dex": 624,
-    "attackStat": 131.9
+    "attackStat": 131
   },
   {
     "speciesId": "raticate_alolan",
     "speciesName": "Raticate (Alolan)",
     "dex": 20,
-    "attackStat": 107
+    "attackStat": 105.9
   },
   {
     "speciesId": "salamence",
     "speciesName": "Salamence",
     "dex": 373,
-    "attackStat": 143.4
+    "attackStat": 143.3
   },
   {
     "speciesId": "toxicroak",
     "speciesName": "Toxicroak",
     "dex": 454,
-    "attackStat": 136.2
+    "attackStat": 134.3
   },
   {
     "speciesId": "electivire",
     "speciesName": "Electivire",
     "dex": 466,
-    "attackStat": 143.3
+    "attackStat": 141.6
   },
   {
     "speciesId": "farfetchd",
     "speciesName": "Farfetch'd",
     "dex": 83,
-    "attackStat": 116.8
+    "attackStat": 117.4
   },
   {
     "speciesId": "garchomp",
     "speciesName": "Garchomp",
     "dex": 445,
-    "attackStat": 132.4
+    "attackStat": 130.4
   },
   {
     "speciesId": "garganacl",
     "speciesName": "Garganacl",
     "dex": 934,
-    "attackStat": 105.8
+    "attackStat": 105.2
   },
   {
     "speciesId": "bruxish",
     "speciesName": "Bruxish",
     "dex": 779,
-    "attackStat": 136.4
+    "attackStat": 134.6
   },
   {
     "speciesId": "hariyama",
     "speciesName": "Hariyama",
     "dex": 297,
-    "attackStat": 125.6
+    "attackStat": 124.8
   },
   {
     "speciesId": "quaxwell",
     "speciesName": "Quaxwell",
     "dex": 913,
-    "attackStat": 125.4
+    "attackStat": 123.8
   },
   {
     "speciesId": "tapu_fini",
     "speciesName": "Tapu Fini",
     "dex": 788,
-    "attackStat": 115.8
+    "attackStat": 112.9
   },
   {
     "speciesId": "rayquaza",
     "speciesName": "Rayquaza",
     "dex": 384,
-    "attackStat": 147.5
+    "attackStat": 144.4
   },
   {
     "speciesId": "charizard",
     "speciesName": "Charizard",
     "dex": 6,
-    "attackStat": 132.7
+    "attackStat": 131.5
   },
   {
     "speciesId": "giratina_origin",
     "speciesName": "Giratina (Origin)",
     "dex": 487,
-    "attackStat": 120
+    "attackStat": 118.3
   },
   {
     "speciesId": "sandslash",
     "speciesName": "Sandslash",
     "dex": 28,
-    "attackStat": 120.4
+    "attackStat": 119.1
   },
   {
     "speciesId": "victini",
     "speciesName": "Victini",
     "dex": 494,
-    "attackStat": 120.4
+    "attackStat": 117.3
   },
   {
     "speciesId": "chesnaught",
     "speciesName": "Chesnaught",
     "dex": 652,
-    "attackStat": 119.3
+    "attackStat": 117.5
   },
   {
     "speciesId": "genesect",
     "speciesName": "Genesect",
     "dex": 649,
-    "attackStat": 141
+    "attackStat": 137.8
   },
   {
     "speciesId": "meowscarada",
     "speciesName": "Meowscarada",
     "dex": 908,
-    "attackStat": 140.3
+    "attackStat": 139.1
   },
   {
     "speciesId": "ferrothorn",
     "speciesName": "Ferrothorn",
     "dex": 598,
-    "attackStat": 107.1
+    "attackStat": 105.5
   },
   {
     "speciesId": "furfrou",
     "speciesName": "Furfrou",
     "dex": 676,
-    "attackStat": 115.5
+    "attackStat": 114.5
   },
   {
     "speciesId": "golurk",
     "speciesName": "Golurk",
     "dex": 623,
-    "attackStat": 133.3
+    "attackStat": 132.1
   },
   {
     "speciesId": "gurdurr",
     "speciesName": "Gurdurr",
     "dex": 533,
-    "attackStat": 125.3
+    "attackStat": 123.2
   },
   {
     "speciesId": "magneton",
     "speciesName": "Magneton",
     "dex": 82,
-    "attackStat": 143.4
+    "attackStat": 141.3
   },
   {
     "speciesId": "perrserker",
     "speciesName": "Perrserker",
     "dex": 863,
-    "attackStat": 128.7
+    "attackStat": 126.9
   },
   {
     "speciesId": "tyranitar",
     "speciesName": "Tyranitar",
     "dex": 248,
-    "attackStat": 129.7
+    "attackStat": 127.6
   },
   {
     "speciesId": "xatu",
     "speciesName": "Xatu",
     "dex": 178,
-    "attackStat": 132.2
+    "attackStat": 130.7
   },
   {
     "speciesId": "aron",
     "speciesName": "Aron",
     "dex": 304,
-    "attackStat": 114.2
+    "attackStat": 114.9
   },
   {
     "speciesId": "excadrill",
     "speciesName": "Excadrill",
     "dex": 530,
-    "attackStat": 142.6
+    "attackStat": 141.5
   },
   {
     "speciesId": "incineroar",
     "speciesName": "Incineroar",
     "dex": 727,
-    "attackStat": 125.2
+    "attackStat": 124.5
   },
   {
     "speciesId": "machoke",
     "speciesName": "Machoke",
     "dex": 67,
-    "attackStat": 126.7
+    "attackStat": 125.1
   },
   {
     "speciesId": "sceptile",
     "speciesName": "Sceptile",
     "dex": 254,
-    "attackStat": 135.6
+    "attackStat": 134.8
   },
   {
     "speciesId": "shiinotic",
     "speciesName": "Shiinotic",
     "dex": 756,
-    "attackStat": 116.5
+    "attackStat": 114.5
   },
   {
     "speciesId": "sirfetchd",
     "speciesName": "Sirfetch'd",
     "dex": 865,
-    "attackStat": 144.7
+    "attackStat": 143.6
   },
   {
     "speciesId": "thundurus_incarnate",
     "speciesName": "Thundurus (Incarnate)",
     "dex": 642,
-    "attackStat": 148.1
+    "attackStat": 144.9
   },
   {
     "speciesId": "blacephalon",
     "speciesName": "Blacephalon",
     "dex": 806,
-    "attackStat": 173.6
+    "attackStat": 172.6
   },
   {
     "speciesId": "centiskorch",
     "speciesName": "Centiskorch",
     "dex": 851,
-    "attackStat": 128.7
+    "attackStat": 128
   },
   {
     "speciesId": "dhelmise",
     "speciesName": "Dhelmise",
     "dex": 781,
-    "attackStat": 139.7
+    "attackStat": 135.6
   },
   {
     "speciesId": "timburr",
     "speciesName": "Timburr",
     "dex": 532,
-    "attackStat": 125.2
+    "attackStat": 125.5
   },
   {
     "speciesId": "vigoroth",
     "speciesName": "Vigoroth",
     "dex": 288,
-    "attackStat": 116.2
+    "attackStat": 115
   },
   {
     "speciesId": "druddigon",
     "speciesName": "Druddigon",
     "dex": 621,
-    "attackStat": 131.2
+    "attackStat": 128.8
   },
   {
     "speciesId": "galvantula",
     "speciesName": "Galvantula",
     "dex": 596,
-    "attackStat": 138.2
+    "attackStat": 135.5
   },
   {
     "speciesId": "leavanny",
     "speciesName": "Leavanny",
     "dex": 542,
-    "attackStat": 129.4
+    "attackStat": 128.4
   },
   {
     "speciesId": "maushold",
     "speciesName": "Maushold",
     "dex": 925,
-    "attackStat": 116.2
+    "attackStat": 114.3
   },
   {
     "speciesId": "relicanth",
     "speciesName": "Relicanth",
     "dex": 369,
-    "attackStat": 105.1
+    "attackStat": 103.2
   },
   {
     "speciesId": "torterra",
     "speciesName": "Torterra",
     "dex": 389,
-    "attackStat": 119.9
+    "attackStat": 119.1
   },
   {
     "speciesId": "vaporeon",
     "speciesName": "Vaporeon",
     "dex": 134,
-    "attackStat": 118.4
+    "attackStat": 116.7
   },
   {
     "speciesId": "vikavolt",
     "speciesName": "Vikavolt",
     "dex": 738,
-    "attackStat": 144.1
+    "attackStat": 143.9
   },
   {
     "speciesId": "dipplin",
     "speciesName": "Dipplin",
     "dex": 1011,
-    "attackStat": 114.6
+    "attackStat": 113.2
   },
   {
     "speciesId": "pumpkaboo_large",
     "speciesName": "Pumpkaboo (Large)",
     "dex": 710,
-    "attackStat": 113.4
+    "attackStat": 114.1
   },
   {
     "speciesId": "beedrill",
     "speciesName": "Beedrill",
     "dex": 15,
-    "attackStat": 127.1
+    "attackStat": 126.2
   },
   {
     "speciesId": "frillish",
     "speciesName": "Frillish",
     "dex": 592,
-    "attackStat": 109.2
+    "attackStat": 109.8
   },
   {
     "speciesId": "slowbro_galarian",
     "speciesName": "Slowbro (Galarian)",
     "dex": 80,
-    "attackStat": 119.1
+    "attackStat": 117.8
   },
   {
     "speciesId": "suicune",
     "speciesName": "Suicune",
     "dex": 245,
-    "attackStat": 106.2
+    "attackStat": 105.3
   },
   {
     "speciesId": "salazzle",
     "speciesName": "Salazzle",
     "dex": 758,
-    "attackStat": 147
+    "attackStat": 145.7
   },
   {
     "speciesId": "zygarde",
     "speciesName": "Zygarde (50% Forme)",
     "dex": 718,
-    "attackStat": 114.1
+    "attackStat": 110.7
   },
   {
     "speciesId": "avalugg_hisuian",
     "speciesName": "Avalugg (Hisuian)",
     "dex": 713,
-    "attackStat": 116.4
+    "attackStat": 116.1
   },
   {
     "speciesId": "corvisquire",
     "speciesName": "Corvisquire",
     "dex": 822,
-    "attackStat": 118.1
+    "attackStat": 117.1
   },
   {
     "speciesId": "donphan",
     "speciesName": "Donphan",
     "dex": 232,
-    "attackStat": 125.2
+    "attackStat": 124.5
   },
   {
     "speciesId": "toxtricity",
     "speciesName": "Toxtricity",
     "dex": 849,
-    "attackStat": 141.2
+    "attackStat": 138.7
   },
   {
     "speciesId": "machop",
     "speciesName": "Machop",
     "dex": 66,
-    "attackStat": 127.7
+    "attackStat": 128.4
   },
   {
     "speciesId": "obstagoon",
     "speciesName": "Obstagoon",
     "dex": 862,
-    "attackStat": 113.2
+    "attackStat": 111.4
   },
   {
     "speciesId": "muk",
     "speciesName": "Muk",
     "dex": 89,
-    "attackStat": 115.8
+    "attackStat": 114.9
   },
   {
     "speciesId": "mamoswine",
     "speciesName": "Mamoswine",
     "dex": 473,
-    "attackStat": 136.2
+    "attackStat": 136
   },
   {
     "speciesId": "typhlosion_hisuian",
     "speciesName": "Typhlosion (Hisuian)",
     "dex": 157,
-    "attackStat": 139.6
+    "attackStat": 137.8
   },
   {
     "speciesId": "flapple",
     "speciesName": "Flapple",
     "dex": 841,
-    "attackStat": 138.1
+    "attackStat": 137
   },
   {
     "speciesId": "magnemite",
     "speciesName": "Magnemite",
     "dex": 81,
-    "attackStat": 147.8
+    "attackStat": 146.6
   },
   {
     "speciesId": "grimer_alolan",
     "speciesName": "Grimer (Alolan)",
     "dex": 88,
-    "attackStat": 122.7
+    "attackStat": 120.8
   },
   {
     "speciesId": "roserade",
     "speciesName": "Roserade",
     "dex": 407,
-    "attackStat": 141.9
+    "attackStat": 141.4
   },
   {
     "speciesId": "bibarel",
     "speciesName": "Bibarel",
     "dex": 400,
-    "attackStat": 122.9
+    "attackStat": 121.9
   },
   {
     "speciesId": "escavalier",
     "speciesName": "Escavalier",
     "dex": 589,
-    "attackStat": 132.1
+    "attackStat": 131.5
   },
   {
     "speciesId": "grimer",
     "speciesName": "Grimer",
     "dex": 88,
-    "attackStat": 121
+    "attackStat": 120.8
   },
   {
     "speciesId": "scolipede",
     "speciesName": "Scolipede",
     "dex": 545,
-    "attackStat": 131.7
+    "attackStat": 130.6
   },
   {
     "speciesId": "swoobat",
     "speciesName": "Swoobat",
     "dex": 528,
-    "attackStat": 126.6
+    "attackStat": 125.4
   },
   {
     "speciesId": "tauros_aqua",
     "speciesName": "Tauros (Aqua)",
     "dex": 128,
-    "attackStat": 127.8
+    "attackStat": 125.4
   },
   {
     "speciesId": "kabutops",
     "speciesName": "Kabutops",
     "dex": 141,
-    "attackStat": 135.4
+    "attackStat": 134.6
   },
   {
     "speciesId": "litleo",
     "speciesName": "Litleo",
     "dex": 667,
-    "attackStat": 121.5
+    "attackStat": 120
   },
   {
     "speciesId": "palpitoad",
     "speciesName": "Palpitoad",
     "dex": 536,
-    "attackStat": 116.2
+    "attackStat": 113.7
   },
   {
     "speciesId": "muk_alolan",
     "speciesName": "Muk (Alolan)",
     "dex": 89,
-    "attackStat": 115.8
+    "attackStat": 114.9
   },
   {
     "speciesId": "venomoth",
     "speciesName": "Venomoth",
     "dex": 49,
-    "attackStat": 127
+    "attackStat": 125.3
   },
   {
     "speciesId": "baxcalibur",
     "speciesName": "Baxcalibur",
     "dex": 998,
-    "attackStat": 135.6
+    "attackStat": 135.7
   },
   {
     "speciesId": "gabite",
     "speciesName": "Gabite",
     "dex": 444,
-    "attackStat": 128.7
+    "attackStat": 126.8
   },
   {
     "speciesId": "staravia",
     "speciesName": "Staravia",
     "dex": 397,
-    "attackStat": 131.9
+    "attackStat": 132.7
   },
   {
     "speciesId": "weezing",
     "speciesName": "Weezing",
     "dex": 110,
-    "attackStat": 117.5
+    "attackStat": 116.2
   },
   {
     "speciesId": "lampent",
     "speciesName": "Lampent",
     "dex": 608,
-    "attackStat": 132.5
+    "attackStat": 130.6
   },
   {
     "speciesId": "quilladin",
     "speciesName": "Quilladin",
     "dex": 651,
-    "attackStat": 114.9
+    "attackStat": 113.3
   },
   {
     "speciesId": "ariados",
     "speciesName": "Ariados",
     "dex": 168,
-    "attackStat": 124.2
+    "attackStat": 122.6
   },
   {
     "speciesId": "crocalor",
     "speciesName": "Crocalor",
     "dex": 910,
-    "attackStat": 119.4
+    "attackStat": 118.5
   },
   {
     "speciesId": "alomomola",
     "speciesName": "Alomomola",
     "dex": 594,
-    "attackStat": 97.4
+    "attackStat": 95.7
   },
   {
     "speciesId": "haunter",
     "speciesName": "Haunter",
     "dex": 93,
-    "attackStat": 161.1
+    "attackStat": 159.7
   },
   {
     "speciesId": "hitmontop",
     "speciesName": "Hitmontop",
     "dex": 237,
-    "attackStat": 121.2
+    "attackStat": 118.9
   },
   {
     "speciesId": "passimian",
     "speciesName": "Passimian",
     "dex": 766,
-    "attackStat": 128.6
+    "attackStat": 127.5
   },
   {
     "speciesId": "chimecho",
     "speciesName": "Chimecho",
     "dex": 358,
-    "attackStat": 119.5
+    "attackStat": 118
   },
   {
     "speciesId": "graveler_alolan",
     "speciesName": "Graveler (Alolan)",
     "dex": 75,
-    "attackStat": 121.4
+    "attackStat": 120.4
   },
   {
     "speciesId": "vibrava",
     "speciesName": "Vibrava",
     "dex": 329,
-    "attackStat": 125.2
+    "attackStat": 125.9
   },
   {
     "speciesId": "zoroark_hisuian",
     "speciesName": "Zoroark (Hisuian)",
     "dex": 571,
-    "attackStat": 163.4
+    "attackStat": 161.6
   },
   {
     "speciesId": "crawdaunt",
     "speciesName": "Crawdaunt",
     "dex": 342,
-    "attackStat": 144.7
+    "attackStat": 143.2
   },
   {
     "speciesId": "kilowattrel",
     "speciesName": "Kilowattrel",
     "dex": 941,
-    "attackStat": 143.2
+    "attackStat": 141.5
   },
   {
     "speciesId": "pumpkaboo_average",
     "speciesName": "Pumpkaboo (Average)",
     "dex": 710,
-    "attackStat": 114.2
+    "attackStat": 114.9
   },
   {
     "speciesId": "zapdos_galarian",
     "speciesName": "Zapdos (Galarian)",
     "dex": 145,
-    "attackStat": 135.6
+    "attackStat": 134.1
   },
   {
     "speciesId": "bewear",
     "speciesName": "Bewear",
     "dex": 760,
-    "attackStat": 129.6
+    "attackStat": 128
   },
   {
     "speciesId": "gengar",
     "speciesName": "Gengar",
     "dex": 94,
-    "attackStat": 154.3
+    "attackStat": 153.9
   },
   {
     "speciesId": "kangaskhan",
     "speciesName": "Kangaskhan",
     "dex": 115,
-    "attackStat": 114.5
+    "attackStat": 113.4
   },
   {
     "speciesId": "celesteela",
     "speciesName": "Celesteela",
     "dex": 797,
-    "attackStat": 119.5
+    "attackStat": 118.4
   },
   {
     "speciesId": "gholdengo",
@@ -2235,229 +2235,229 @@
     "speciesId": "sandygast",
     "speciesName": "Sandygast",
     "dex": 769,
-    "attackStat": 113.4
+    "attackStat": 114.1
   },
   {
     "speciesId": "chatot",
     "speciesName": "Chatot",
     "dex": 441,
-    "attackStat": 139.6
+    "attackStat": 137.7
   },
   {
     "speciesId": "deoxys_defense",
     "speciesName": "Deoxys (Defense)",
     "dex": 386,
-    "attackStat": 101
+    "attackStat": 97.1
   },
   {
     "speciesId": "golem_alolan",
     "speciesName": "Golem (Alolan)",
     "dex": 76,
-    "attackStat": 125.1
+    "attackStat": 123.3
   },
   {
     "speciesId": "larvesta",
     "speciesName": "Larvesta",
     "dex": 636,
-    "attackStat": 130.8
+    "attackStat": 129.1
   },
   {
     "speciesId": "wormadam_plant",
     "speciesName": "Wormadam (Plant)",
     "dex": 413,
-    "attackStat": 110
+    "attackStat": 107.7
   },
   {
     "speciesId": "cacturne",
     "speciesName": "Cacturne",
     "dex": 332,
-    "attackStat": 147.2
+    "attackStat": 146.1
   },
   {
     "speciesId": "frigibax",
     "speciesName": "Frigibax",
     "dex": 996,
-    "attackStat": 125.2
+    "attackStat": 125.9
   },
   {
     "speciesId": "gigalith",
     "speciesName": "Gigalith",
     "dex": 526,
-    "attackStat": 127.2
+    "attackStat": 126.2
   },
   {
     "speciesId": "slowpoke",
     "speciesName": "Slowpoke",
     "dex": 79,
-    "attackStat": 104.1
+    "attackStat": 104.8
   },
   {
     "speciesId": "arcanine",
     "speciesName": "Arcanine",
     "dex": 59,
-    "attackStat": 132
+    "attackStat": 130.3
   },
   {
     "speciesId": "kricketune",
     "speciesName": "Kricketune",
     "dex": 402,
-    "attackStat": 127.7
+    "attackStat": 125.9
   },
   {
     "speciesId": "skarmory",
     "speciesName": "Skarmory",
     "dex": 227,
-    "attackStat": 105.5
+    "attackStat": 103.6
   },
   {
     "speciesId": "golduck",
     "speciesName": "Golduck",
     "dex": 55,
-    "attackStat": 124.1
+    "attackStat": 123.6
   },
   {
     "speciesId": "magmar",
     "speciesName": "Magmar",
     "dex": 126,
-    "attackStat": 135.1
+    "attackStat": 133.4
   },
   {
     "speciesId": "fraxure",
     "speciesName": "Fraxure",
     "dex": 611,
-    "attackStat": 144.2
+    "attackStat": 143
   },
   {
     "speciesId": "floatzel",
     "speciesName": "Floatzel",
     "dex": 419,
-    "attackStat": 143.8
+    "attackStat": 141.5
   },
   {
     "speciesId": "braixen",
     "speciesName": "Braixen",
     "dex": 654,
-    "attackStat": 130.5
+    "attackStat": 128.2
   },
   {
     "speciesId": "drilbur",
     "speciesName": "Drilbur",
     "dex": 529,
-    "attackStat": 139.4
+    "attackStat": 136.5
   },
   {
     "speciesId": "mienshao",
     "speciesName": "Mienshao",
     "dex": 620,
-    "attackStat": 158.9
+    "attackStat": 156
   },
   {
     "speciesId": "shiftry",
     "speciesName": "Shiftry",
     "dex": 275,
-    "attackStat": 133.4
+    "attackStat": 132.2
   },
   {
     "speciesId": "cinderace",
     "speciesName": "Cinderace",
     "dex": 815,
-    "attackStat": 139
+    "attackStat": 136.7
   },
   {
     "speciesId": "kleavor",
     "speciesName": "Kleavor",
     "dex": 900,
-    "attackStat": 143.6
+    "attackStat": 142.5
   },
   {
     "speciesId": "zangoose",
     "speciesName": "Zangoose",
     "dex": 335,
-    "attackStat": 144.7
+    "attackStat": 143.7
   },
   {
     "speciesId": "aipom",
     "speciesName": "Aipom",
     "dex": 190,
-    "attackStat": 124.3
+    "attackStat": 123.4
   },
   {
     "speciesId": "celebi",
     "speciesName": "Celebi",
     "dex": 251,
-    "attackStat": 120.4
+    "attackStat": 117.3
   },
   {
     "speciesId": "parasect",
     "speciesName": "Parasect",
     "dex": 47,
-    "attackStat": 124.1
+    "attackStat": 122.7
   },
   {
     "speciesId": "decidueye",
     "speciesName": "Decidueye",
     "dex": 724,
-    "attackStat": 127.8
+    "attackStat": 127
   },
   {
     "speciesId": "articuno_galarian",
     "speciesName": "Articuno (Galarian)",
     "dex": 144,
-    "attackStat": 134.1
+    "attackStat": 131.4
   },
   {
     "speciesId": "bayleef",
     "speciesName": "Bayleef",
     "dex": 153,
-    "attackStat": 105.5
+    "attackStat": 104.5
   },
   {
     "speciesId": "regice",
     "speciesName": "Regice",
     "dex": 378,
-    "attackStat": 104.5
+    "attackStat": 102.8
   },
   {
     "speciesId": "rhyperior",
     "speciesName": "Rhyperior",
     "dex": 464,
-    "attackStat": 126.7
+    "attackStat": 124.6
   },
   {
     "speciesId": "wyrdeer",
     "speciesName": "Wyrdeer",
     "dex": 899,
-    "attackStat": 126.6
+    "attackStat": 125.1
   },
   {
     "speciesId": "delphox",
     "speciesName": "Delphox",
     "dex": 655,
-    "attackStat": 132.6
+    "attackStat": 132.1
   },
   {
     "speciesId": "nidoking",
     "speciesName": "Nidoking",
     "dex": 34,
-    "attackStat": 129.4
+    "attackStat": 127.8
   },
   {
     "speciesId": "pawmo",
     "speciesName": "Pawmo",
     "dex": 922,
-    "attackStat": 136.1
+    "attackStat": 136.9
   },
   {
     "speciesId": "eelektrik",
     "speciesName": "Eelektrik",
     "dex": 603,
-    "attackStat": 122.3
+    "attackStat": 121
   },
   {
     "speciesId": "heatran",
     "speciesName": "Heatran",
     "dex": 485,
-    "attackStat": 132.9
+    "attackStat": 129.8
   },
   {
     "speciesId": "magby",
@@ -2469,1969 +2469,1969 @@
     "speciesId": "pumpkaboo_small",
     "speciesName": "Pumpkaboo (Small)",
     "dex": 710,
-    "attackStat": 115.1
+    "attackStat": 115.8
   },
   {
     "speciesId": "sandaconda",
     "speciesName": "Sandaconda",
     "dex": 844,
-    "attackStat": 123
+    "attackStat": 121.8
   },
   {
     "speciesId": "emboar",
     "speciesName": "Emboar",
     "dex": 500,
-    "attackStat": 137.8
+    "attackStat": 136.7
   },
   {
     "speciesId": "golett",
     "speciesName": "Golett",
     "dex": 622,
-    "attackStat": 119.3
+    "attackStat": 120
   },
   {
     "speciesId": "hatterene",
     "speciesName": "Hatterene",
     "dex": 858,
-    "attackStat": 142.1
+    "attackStat": 141.5
   },
   {
     "speciesId": "hydrapple",
     "speciesName": "Hydrapple",
     "dex": 1019,
-    "attackStat": 122.2
+    "attackStat": 120.7
   },
   {
     "speciesId": "drifloon",
     "speciesName": "Drifloon",
     "dex": 425,
-    "attackStat": 110.9
+    "attackStat": 111.5
   },
   {
     "speciesId": "electabuzz",
     "speciesName": "Electabuzz",
     "dex": 125,
-    "attackStat": 130.8
+    "attackStat": 130.9
   },
   {
     "speciesId": "staraptor",
     "speciesName": "Staraptor",
     "dex": 398,
-    "attackStat": 140.3
+    "attackStat": 139.7
   },
   {
     "speciesId": "aerodactyl",
     "speciesName": "Aerodactyl",
     "dex": 142,
-    "attackStat": 134.4
+    "attackStat": 132.6
   },
   {
     "speciesId": "metagross",
     "speciesName": "Metagross",
     "dex": 376,
-    "attackStat": 132.7
+    "attackStat": 131.7
   },
   {
     "speciesId": "pancham",
     "speciesName": "Pancham",
     "dex": 674,
-    "attackStat": 123.3
+    "attackStat": 121.2
   },
   {
     "speciesId": "wormadam_sandy",
     "speciesName": "Wormadam (Sandy)",
     "dex": 413,
-    "attackStat": 110
+    "attackStat": 107.7
   },
   {
     "speciesId": "magmortar",
     "speciesName": "Magmortar",
     "dex": 467,
-    "attackStat": 140.8
+    "attackStat": 139.9
   },
   {
     "speciesId": "slowpoke_galarian",
     "speciesName": "Slowpoke (Galarian)",
     "dex": 79,
-    "attackStat": 104.1
+    "attackStat": 104.8
   },
   {
     "speciesId": "swadloon",
     "speciesName": "Swadloon",
     "dex": 541,
-    "attackStat": 106.7
+    "attackStat": 104.8
   },
   {
     "speciesId": "swellow",
     "speciesName": "Swellow",
     "dex": 277,
-    "attackStat": 135.9
+    "attackStat": 134.2
   },
   {
     "speciesId": "manectric",
     "speciesName": "Manectric",
     "dex": 310,
-    "attackStat": 142.4
+    "attackStat": 140.7
   },
   {
     "speciesId": "moltres",
     "speciesName": "Moltres",
     "dex": 146,
-    "attackStat": 136.7
+    "attackStat": 134.6
   },
   {
     "speciesId": "scyther",
     "speciesName": "Scyther",
     "dex": 123,
-    "attackStat": 134.8
+    "attackStat": 133.4
   },
   {
     "speciesId": "ceruledge",
     "speciesName": "Ceruledge",
     "dex": 937,
-    "attackStat": 136.3
+    "attackStat": 134.1
   },
   {
     "speciesId": "combusken",
     "speciesName": "Combusken",
     "dex": 256,
-    "attackStat": 130.3
+    "attackStat": 128.3
   },
   {
     "speciesId": "growlithe",
     "speciesName": "Growlithe",
     "dex": 58,
-    "attackStat": 126.8
+    "attackStat": 127.6
   },
   {
     "speciesId": "linoone_galarian",
     "speciesName": "Linoone (Galarian)",
     "dex": 264,
-    "attackStat": 114.1
+    "attackStat": 112.2
   },
   {
     "speciesId": "tauros_combat",
     "speciesName": "Tauros (Combat)",
     "dex": 128,
-    "attackStat": 127.8
+    "attackStat": 125.4
   },
   {
     "speciesId": "krookodile",
     "speciesName": "Krookodile",
     "dex": 553,
-    "attackStat": 133.1
+    "attackStat": 131.5
   },
   {
     "speciesId": "probopass",
     "speciesName": "Probopass",
     "dex": 476,
-    "attackStat": 95.9
+    "attackStat": 95.4
   },
   {
     "speciesId": "tyrunt",
     "speciesName": "Tyrunt",
     "dex": 696,
-    "attackStat": 126.6
+    "attackStat": 124.8
   },
   {
     "speciesId": "monferno",
     "speciesName": "Monferno",
     "dex": 391,
-    "attackStat": 129.6
+    "attackStat": 127.6
   },
   {
     "speciesId": "mudsdale",
     "speciesName": "Mudsdale",
     "dex": 750,
-    "attackStat": 123.5
+    "attackStat": 122.9
   },
   {
     "speciesId": "wobbuffet",
     "speciesName": "Wobbuffet",
     "dex": 202,
-    "attackStat": 63
+    "attackStat": 63.3
   },
   {
     "speciesId": "grovyle",
     "speciesName": "Grovyle",
     "dex": 253,
-    "attackStat": 136.3
+    "attackStat": 134.4
   },
   {
     "speciesId": "mr_mime",
     "speciesName": "Mr. Mime",
     "dex": 122,
-    "attackStat": 131.5
+    "attackStat": 129.5
   },
   {
     "speciesId": "houndstone",
     "speciesName": "Houndstone",
     "dex": 972,
-    "attackStat": 120.3
+    "attackStat": 118.4
   },
   {
     "speciesId": "tangrowth",
     "speciesName": "Tangrowth",
     "dex": 465,
-    "attackStat": 120.7
+    "attackStat": 119.4
   },
   {
     "speciesId": "grafaiai",
     "speciesName": "Grafaiai",
     "dex": 945,
-    "attackStat": 134.2
+    "attackStat": 132.9
   },
   {
     "speciesId": "tauros_blaze",
     "speciesName": "Tauros (Blaze)",
     "dex": 128,
-    "attackStat": 127.8
+    "attackStat": 125.4
   },
   {
     "speciesId": "volcanion",
     "speciesName": "Volcanion",
     "dex": 721,
-    "attackStat": 135.5
+    "attackStat": 132.5
   },
   {
     "speciesId": "croconaw",
     "speciesName": "Croconaw",
     "dex": 159,
-    "attackStat": 117.7
+    "attackStat": 116.4
   },
   {
     "speciesId": "kabuto",
     "speciesName": "Kabuto",
     "dex": 140,
-    "attackStat": 134.4
+    "attackStat": 131.8
   },
   {
     "speciesId": "regieleki",
     "speciesName": "Regieleki",
     "dex": 894,
-    "attackStat": 149.8
+    "attackStat": 149.3
   },
   {
     "speciesId": "armaldo",
     "speciesName": "Armaldo",
     "dex": 348,
-    "attackStat": 133.9
+    "attackStat": 132.6
   },
   {
     "speciesId": "cryogonal",
     "speciesName": "Cryogonal",
     "dex": 615,
-    "attackStat": 115.8
+    "attackStat": 114.9
   },
   {
     "speciesId": "sandshrew",
     "speciesName": "Sandshrew",
     "dex": 27,
-    "attackStat": 118.4
+    "attackStat": 119.1
   },
   {
     "speciesId": "slowking",
     "speciesName": "Slowking",
     "dex": 199,
-    "attackStat": 113.4
+    "attackStat": 112.1
   },
   {
     "speciesId": "elekid",
     "speciesName": "Elekid",
     "dex": 239,
-    "attackStat": 126
+    "attackStat": 126.7
   },
   {
     "speciesId": "smoochum",
     "speciesName": "Smoochum",
     "dex": 238,
-    "attackStat": 141.1
+    "attackStat": 142
   },
   {
     "speciesId": "weepinbell",
     "speciesName": "Weepinbell",
     "dex": 70,
-    "attackStat": 137.9
+    "attackStat": 137.1
   },
   {
     "speciesId": "hattrem",
     "speciesName": "Hattrem",
     "dex": 857,
-    "attackStat": 122.7
+    "attackStat": 121.2
   },
   {
     "speciesId": "hitmonlee",
     "speciesName": "Hitmonlee",
     "dex": 106,
-    "attackStat": 141.8
+    "attackStat": 139.9
   },
   {
     "speciesId": "pyroar",
     "speciesName": "Pyroar",
     "dex": 668,
-    "attackStat": 135
+    "attackStat": 133.6
   },
   {
     "speciesId": "absol",
     "speciesName": "Absol",
     "dex": 359,
-    "attackStat": 156.6
+    "attackStat": 154.1
   },
   {
     "speciesId": "mantyke",
     "speciesName": "Mantyke",
     "dex": 458,
-    "attackStat": 100.8
+    "attackStat": 101.4
   },
   {
     "speciesId": "landorus_incarnate",
     "speciesName": "Landorus (Incarnate)",
     "dex": 645,
-    "attackStat": 140.2
+    "attackStat": 137.2
   },
   {
     "speciesId": "pinsir",
     "speciesName": "Pinsir",
     "dex": 127,
-    "attackStat": 139.6
+    "attackStat": 138.5
   },
   {
     "speciesId": "corsola",
     "speciesName": "Corsola",
     "dex": 222,
-    "attackStat": 108.5
+    "attackStat": 106.5
   },
   {
     "speciesId": "floette",
     "speciesName": "Floette",
     "dex": 670,
-    "attackStat": 114.2
+    "attackStat": 112.2
   },
   {
     "speciesId": "sneasler",
     "speciesName": "Sneasler",
     "dex": 903,
-    "attackStat": 145.4
+    "attackStat": 144.7
   },
   {
     "speciesId": "durant",
     "speciesName": "Durant",
     "dex": 632,
-    "attackStat": 135.2
+    "attackStat": 133.4
   },
   {
     "speciesId": "leafeon",
     "speciesName": "Leafeon",
     "dex": 470,
-    "attackStat": 128.1
+    "attackStat": 126.8
   },
   {
     "speciesId": "pignite",
     "speciesName": "Pignite",
     "dex": 499,
-    "attackStat": 127.3
+    "attackStat": 126.2
   },
   {
     "speciesId": "tyrantrum",
     "speciesName": "Tyrantrum",
     "dex": 697,
-    "attackStat": 129
+    "attackStat": 128.6
   },
   {
     "speciesId": "beartic",
     "speciesName": "Beartic",
     "dex": 614,
-    "attackStat": 135.4
+    "attackStat": 133.8
   },
   {
     "speciesId": "pidgeotto",
     "speciesName": "Pidgeotto",
     "dex": 17,
-    "attackStat": 110.9
+    "attackStat": 111.5
   },
   {
     "speciesId": "carkol",
     "speciesName": "Carkol",
     "dex": 838,
-    "attackStat": 97
+    "attackStat": 96
   },
   {
     "speciesId": "espurr",
     "speciesName": "Espurr",
     "dex": 677,
-    "attackStat": 113.4
+    "attackStat": 114.1
   },
   {
     "speciesId": "prinplup",
     "speciesName": "Prinplup",
     "dex": 394,
-    "attackStat": 118.6
+    "attackStat": 116.8
   },
   {
     "speciesId": "appletun",
     "speciesName": "Appletun",
     "dex": 842,
-    "attackStat": 116.5
+    "attackStat": 115.3
   },
   {
     "speciesId": "mudbray",
     "speciesName": "Mudbray",
     "dex": 749,
-    "attackStat": 129.8
+    "attackStat": 128.7
   },
   {
     "speciesId": "chansey",
     "speciesName": "Chansey",
     "dex": 113,
-    "attackStat": 63
+    "attackStat": 63.3
   },
   {
     "speciesId": "flareon",
     "speciesName": "Flareon",
     "dex": 136,
-    "attackStat": 142.2
+    "attackStat": 141.3
   },
   {
     "speciesId": "sawk",
     "speciesName": "Sawk",
     "dex": 539,
-    "attackStat": 140.3
+    "attackStat": 137.9
   },
   {
     "speciesId": "charmeleon",
     "speciesName": "Charmeleon",
     "dex": 5,
-    "attackStat": 126.6
+    "attackStat": 124.8
   },
   {
     "speciesId": "zebstrika",
     "speciesName": "Zebstrika",
     "dex": 523,
-    "attackStat": 137.7
+    "attackStat": 136.6
   },
   {
     "speciesId": "meowstic_female",
     "speciesName": "Meowstic (Female)",
     "dex": 678,
-    "attackStat": 117.1
+    "attackStat": 115.2
   },
   {
     "speciesId": "growlithe_hisuian",
     "speciesName": "Growlithe (Hisuian)",
     "dex": 58,
-    "attackStat": 131.9
+    "attackStat": 131.4
   },
   {
     "speciesId": "mismagius",
     "speciesName": "Mismagius",
     "dex": 429,
-    "attackStat": 131.6
+    "attackStat": 130.6
   },
   {
     "speciesId": "bouffalant",
     "speciesName": "Bouffalant",
     "dex": 626,
-    "attackStat": 118.8
+    "attackStat": 117.9
   },
   {
     "speciesId": "floragato",
     "speciesName": "Floragato",
     "dex": 907,
-    "attackStat": 124.4
+    "attackStat": 123.1
   },
   {
     "speciesId": "ivysaur",
     "speciesName": "Ivysaur",
     "dex": 2,
-    "attackStat": 118.7
+    "attackStat": 118
   },
   {
     "speciesId": "basculin",
     "speciesName": "Basculin",
     "dex": 550,
-    "attackStat": 133.9
+    "attackStat": 132.4
   },
   {
     "speciesId": "scraggy",
     "speciesName": "Scraggy",
     "dex": 559,
-    "attackStat": 120.2
+    "attackStat": 118.8
   },
   {
     "speciesId": "seviper",
     "speciesName": "Seviper",
     "dex": 336,
-    "attackStat": 137.5
+    "attackStat": 136
   },
   {
     "speciesId": "ponyta",
     "speciesName": "Ponyta",
     "dex": 77,
-    "attackStat": 133.5
+    "attackStat": 131.9
   },
   {
     "speciesId": "buneary",
     "speciesName": "Buneary",
     "dex": 427,
-    "attackStat": 121.8
+    "attackStat": 122.5
   },
   {
     "speciesId": "geodude_alolan",
     "speciesName": "Geodude (Alolan)",
     "dex": 74,
-    "attackStat": 123.5
+    "attackStat": 124.2
   },
   {
     "speciesId": "espathra",
     "speciesName": "Espathra",
     "dex": 956,
-    "attackStat": 131.7
+    "attackStat": 130.5
   },
   {
     "speciesId": "cherrim_sunny",
     "speciesName": "Cherrim (Sunshine)",
     "dex": 421,
-    "attackStat": 121.8
+    "attackStat": 120.1
   },
   {
     "speciesId": "heatmor",
     "speciesName": "Heatmor",
     "dex": 631,
-    "attackStat": 134.6
+    "attackStat": 132.1
   },
   {
     "speciesId": "shellos",
     "speciesName": "Shellos",
     "dex": 422,
-    "attackStat": 99.1
+    "attackStat": 99.7
   },
   {
     "speciesId": "ho_oh",
     "speciesName": "Ho-Oh",
     "dex": 250,
-    "attackStat": 122.9
+    "attackStat": 121.5
   },
   {
     "speciesId": "darumaka",
     "speciesName": "Darumaka",
     "dex": 554,
-    "attackStat": 131.9
+    "attackStat": 129.3
   },
   {
     "speciesId": "karrablast",
     "speciesName": "Karrablast",
     "dex": 588,
-    "attackStat": 127.7
+    "attackStat": 128.4
   },
   {
     "speciesId": "mienfoo",
     "speciesName": "Mienfoo",
     "dex": 619,
-    "attackStat": 142.7
+    "attackStat": 139.9
   },
   {
     "speciesId": "misdreavus",
     "speciesName": "Misdreavus",
     "dex": 200,
-    "attackStat": 123
+    "attackStat": 121.8
   },
   {
     "speciesId": "aggron",
     "speciesName": "Aggron",
     "dex": 306,
-    "attackStat": 116.6
+    "attackStat": 115.2
   },
   {
     "speciesId": "dolliv",
     "speciesName": "Dolliv",
     "dex": 929,
-    "attackStat": 118.4
+    "attackStat": 118.3
   },
   {
     "speciesId": "ninjask",
     "speciesName": "Ninjask",
     "dex": 291,
-    "attackStat": 144.7
+    "attackStat": 143.1
   },
   {
     "speciesId": "zoroark",
     "speciesName": "Zoroark",
     "dex": 571,
-    "attackStat": 157.3
+    "attackStat": 155.4
   },
   {
     "speciesId": "rotom",
     "speciesName": "Rotom",
     "dex": 479,
-    "attackStat": 132.4
+    "attackStat": 130.7
   },
   {
     "speciesId": "eldegoss",
     "speciesName": "Eldegoss",
     "dex": 830,
-    "attackStat": 108.4
+    "attackStat": 106.4
   },
   {
     "speciesId": "gothitelle",
     "speciesName": "Gothitelle",
     "dex": 576,
-    "attackStat": 115.3
+    "attackStat": 113.9
   },
   {
     "speciesId": "honchkrow",
     "speciesName": "Honchkrow",
     "dex": 430,
-    "attackStat": 149.9
+    "attackStat": 146.9
   },
   {
     "speciesId": "huntail",
     "speciesName": "Huntail",
     "dex": 367,
-    "attackStat": 130.8
+    "attackStat": 129.5
   },
   {
     "speciesId": "luxray",
     "speciesName": "Luxray",
     "dex": 405,
-    "attackStat": 138
+    "attackStat": 136.8
   },
   {
     "speciesId": "poliwhirl",
     "speciesName": "Poliwhirl",
     "dex": 61,
-    "attackStat": 114.2
+    "attackStat": 113.2
   },
   {
     "speciesId": "quilava",
     "speciesName": "Quilava",
     "dex": 156,
-    "attackStat": 126.6
+    "attackStat": 124.8
   },
   {
     "speciesId": "exploud",
     "speciesName": "Exploud",
     "dex": 295,
-    "attackStat": 119.7
+    "attackStat": 118.3
   },
   {
     "speciesId": "cloyster",
     "speciesName": "Cloyster",
     "dex": 91,
-    "attackStat": 119
+    "attackStat": 117.8
   },
   {
     "speciesId": "jolteon",
     "speciesName": "Jolteon",
     "dex": 135,
-    "attackStat": 137.4
+    "attackStat": 136.8
   },
   {
     "speciesId": "torracat",
     "speciesName": "Torracat",
     "dex": 726,
-    "attackStat": 135.5
+    "attackStat": 134.5
   },
   {
     "speciesId": "crobat",
     "speciesName": "Crobat",
     "dex": 169,
-    "attackStat": 121.2
+    "attackStat": 120.1
   },
   {
     "speciesId": "espeon",
     "speciesName": "Espeon",
     "dex": 196,
-    "attackStat": 148
+    "attackStat": 145.8
   },
   {
     "speciesId": "sneasel_hisuian",
     "speciesName": "Sneasel (Hisuian)",
     "dex": 215,
-    "attackStat": 133.9
+    "attackStat": 133.1
   },
   {
     "speciesId": "dustox",
     "speciesName": "Dustox",
     "dex": 269,
-    "attackStat": 94.9
+    "attackStat": 95.5
   },
   {
     "speciesId": "grapploct",
     "speciesName": "Grapploct",
     "dex": 853,
-    "attackStat": 130.3
+    "attackStat": 128.5
   },
   {
     "speciesId": "mankey",
     "speciesName": "Mankey",
     "dex": 56,
-    "attackStat": 136.9
+    "attackStat": 137.7
   },
   {
     "speciesId": "vanillish",
     "speciesName": "Vanillish",
     "dex": 583,
-    "attackStat": 123.6
+    "attackStat": 121.6
   },
   {
     "speciesId": "frosmoth",
     "speciesName": "Frosmoth",
     "dex": 873,
-    "attackStat": 141.5
+    "attackStat": 139.1
   },
   {
     "speciesId": "hitmonchan",
     "speciesName": "Hitmonchan",
     "dex": 107,
-    "attackStat": 128.9
+    "attackStat": 127.6
   },
   {
     "speciesId": "nidorino",
     "speciesName": "Nidorino",
     "dex": 33,
-    "attackStat": 123.3
+    "attackStat": 120.8
   },
   {
     "speciesId": "urshifu_rapid_strike",
     "speciesName": "Urshifu (Rapid Strike)",
     "dex": 892,
-    "attackStat": 136.5
+    "attackStat": 133.5
   },
   {
     "speciesId": "bisharp",
     "speciesName": "Bisharp",
     "dex": 625,
-    "attackStat": 139.8
+    "attackStat": 137.4
   },
   {
     "speciesId": "buzzwole",
     "speciesName": "Buzzwole",
     "dex": 794,
-    "attackStat": 128.2
+    "attackStat": 127.1
   },
   {
     "speciesId": "chandelure",
     "speciesName": "Chandelure",
     "dex": 609,
-    "attackStat": 151.4
+    "attackStat": 149.2
   },
   {
     "speciesId": "meowstic",
     "speciesName": "Meowstic (Male)",
     "dex": 678,
-    "attackStat": 117.1
+    "attackStat": 115.2
   },
   {
     "speciesId": "oddish",
     "speciesName": "Oddish",
     "dex": 43,
-    "attackStat": 122.6
+    "attackStat": 123.4
   },
   {
     "speciesId": "omanyte",
     "speciesName": "Omanyte",
     "dex": 138,
-    "attackStat": 128
+    "attackStat": 126.7
   },
   {
     "speciesId": "kubfu",
     "speciesName": "Kubfu",
     "dex": 891,
-    "attackStat": 136.5
+    "attackStat": 131.9
   },
   {
     "speciesId": "sharpedo",
     "speciesName": "Sharpedo",
     "dex": 319,
-    "attackStat": 166.6
+    "attackStat": 163.9
   },
   {
     "speciesId": "skrelp",
     "speciesName": "Skrelp",
     "dex": 690,
-    "attackStat": 104.1
+    "attackStat": 104.8
   },
   {
     "speciesId": "darmanitan_standard",
     "speciesName": "Darmanitan (Standard)",
     "dex": 555,
-    "attackStat": 149.7
+    "attackStat": 149
   },
   {
     "speciesId": "drakloak",
     "speciesName": "Drakloak",
     "dex": 886,
-    "attackStat": 130.3
+    "attackStat": 128.8
   },
   {
     "speciesId": "gloom",
     "speciesName": "Gloom",
     "dex": 44,
-    "attackStat": 121.3
+    "attackStat": 120.4
   },
   {
     "speciesId": "alakazam",
     "speciesName": "Alakazam",
     "dex": 65,
-    "attackStat": 155.8
+    "attackStat": 154.6
   },
   {
     "speciesId": "delcatty",
     "speciesName": "Delcatty",
     "dex": 301,
-    "attackStat": 111.9
+    "attackStat": 110.2
   },
   {
     "speciesId": "poipole",
     "speciesName": "Poipole",
     "dex": 803,
-    "attackStat": 119.7
+    "attackStat": 115.7
   },
   {
     "speciesId": "tauros",
     "speciesName": "Tauros",
     "dex": 128,
-    "attackStat": 125.1
+    "attackStat": 122.6
   },
   {
     "speciesId": "polteageist",
     "speciesName": "Polteageist",
     "dex": 855,
-    "attackStat": 142.8
+    "attackStat": 142.4
   },
   {
     "speciesId": "krokorok",
     "speciesName": "Krokorok",
     "dex": 552,
-    "attackStat": 134
+    "attackStat": 133.1
   },
   {
     "speciesId": "mesprit",
     "speciesName": "Mesprit",
     "dex": 481,
-    "attackStat": 123.5
+    "attackStat": 121.7
   },
   {
     "speciesId": "arbok",
     "speciesName": "Arbok",
     "dex": 24,
-    "attackStat": 123.7
+    "attackStat": 122.7
   },
   {
     "speciesId": "stoutland",
     "speciesName": "Stoutland",
     "dex": 508,
-    "attackStat": 123.8
+    "attackStat": 123
   },
   {
     "speciesId": "exeggutor_alolan",
     "speciesName": "Exeggutor (Alolan)",
     "dex": 103,
-    "attackStat": 134.4
+    "attackStat": 132.6
   },
   {
     "speciesId": "minun",
     "speciesName": "Minun",
     "dex": 312,
-    "attackStat": 116.3
+    "attackStat": 114.9
   },
   {
     "speciesId": "porygon",
     "speciesName": "Porygon",
     "dex": 137,
-    "attackStat": 120
+    "attackStat": 118.7
   },
   {
     "speciesId": "herdier",
     "speciesName": "Herdier",
     "dex": 507,
-    "attackStat": 118.8
+    "attackStat": 117.5
   },
   {
     "speciesId": "zygarde_10",
     "speciesName": "Zygarde (10% Forme)",
     "dex": 718,
-    "attackStat": 138.1
+    "attackStat": 134.1
   },
   {
     "speciesId": "darumaka_galarian",
     "speciesName": "Darumaka (Galarian)",
     "dex": 554,
-    "attackStat": 131.9
+    "attackStat": 129.3
   },
   {
     "speciesId": "gothorita",
     "speciesName": "Gothorita",
     "dex": 575,
-    "attackStat": 112.2
+    "attackStat": 110.3
   },
   {
     "speciesId": "rillaboom",
     "speciesName": "Rillaboom",
     "dex": 812,
-    "attackStat": 132.4
+    "attackStat": 131.6
   },
   {
     "speciesId": "klawf",
     "speciesName": "Klawf",
     "dex": 950,
-    "attackStat": 121
+    "attackStat": 119.8
   },
   {
     "speciesId": "rotom_mow",
     "speciesName": "Rotom (Mow)",
     "dex": 479,
-    "attackStat": 128.8
+    "attackStat": 127.8
   },
   {
     "speciesId": "raboot",
     "speciesName": "Raboot",
     "dex": 814,
-    "attackStat": 128.8
+    "attackStat": 127.9
   },
   {
     "speciesId": "snover",
     "speciesName": "Snover",
     "dex": 459,
-    "attackStat": 109.2
+    "attackStat": 109.8
   },
   {
     "speciesId": "sneasel",
     "speciesName": "Sneasel",
     "dex": 215,
-    "attackStat": 133.9
+    "attackStat": 133.1
   },
   {
     "speciesId": "breloom",
     "speciesName": "Breloom",
     "dex": 286,
-    "attackStat": 149.9
+    "attackStat": 148.7
   },
   {
     "speciesId": "brionne",
     "speciesName": "Brionne",
     "dex": 729,
-    "attackStat": 125.8
+    "attackStat": 124.1
   },
   {
     "speciesId": "honedge",
     "speciesName": "Honedge",
     "dex": 679,
-    "attackStat": 122.1
+    "attackStat": 120
   },
   {
     "speciesId": "houndoom",
     "speciesName": "Houndoom",
     "dex": 229,
-    "attackStat": 139.5
+    "attackStat": 138.7
   },
   {
     "speciesId": "spritzee",
     "speciesName": "Spritzee",
     "dex": 682,
-    "attackStat": 105
+    "attackStat": 105.6
   },
   {
     "speciesId": "goldeen",
     "speciesName": "Goldeen",
     "dex": 118,
-    "attackStat": 115.9
+    "attackStat": 116.6
   },
   {
     "speciesId": "houndour",
     "speciesName": "Houndour",
     "dex": 228,
-    "attackStat": 140.3
+    "attackStat": 141.1
   },
   {
     "speciesId": "purugly",
     "speciesName": "Purugly",
     "dex": 432,
-    "attackStat": 125.5
+    "attackStat": 124.7
   },
   {
     "speciesId": "sudowoodo",
     "speciesName": "Sudowoodo",
     "dex": 185,
-    "attackStat": 117.1
+    "attackStat": 115.9
   },
   {
     "speciesId": "haxorus",
     "speciesName": "Haxorus",
     "dex": 612,
-    "attackStat": 151.4
+    "attackStat": 149.3
   },
   {
     "speciesId": "pineco",
     "speciesName": "Pineco",
     "dex": 204,
-    "attackStat": 103.3
+    "attackStat": 103.9
   },
   {
     "speciesId": "duraludon",
     "speciesName": "Duraludon",
     "dex": 884,
-    "attackStat": 137.7
+    "attackStat": 137.2
   },
   {
     "speciesId": "grotle",
     "speciesName": "Grotle",
     "dex": 388,
-    "attackStat": 117.8
+    "attackStat": 116.3
   },
   {
     "speciesId": "tirtouga",
     "speciesName": "Tirtouga",
     "dex": 564,
-    "attackStat": 114.3
+    "attackStat": 112.2
   },
   {
     "speciesId": "oricorio_pom_pom",
     "speciesName": "Oricorio (Pom-Pom)",
     "dex": 741,
-    "attackStat": 130.8
+    "attackStat": 129.5
   },
   {
     "speciesId": "carnivine",
     "speciesName": "Carnivine",
     "dex": 455,
-    "attackStat": 130.1
+    "attackStat": 128.5
   },
   {
     "speciesId": "dugtrio",
     "speciesName": "Dugtrio",
     "dex": 51,
-    "attackStat": 136.7
+    "attackStat": 135.3
   },
   {
     "speciesId": "graveler",
     "speciesName": "Graveler",
     "dex": 75,
-    "attackStat": 121.4
+    "attackStat": 120.4
   },
   {
     "speciesId": "banette",
     "speciesName": "Banette",
     "dex": 354,
-    "attackStat": 145.2
+    "attackStat": 144.1
   },
   {
     "speciesId": "nuzleaf",
     "speciesName": "Nuzleaf",
     "dex": 274,
-    "attackStat": 125.2
+    "attackStat": 125.9
   },
   {
     "speciesId": "revavroom",
     "speciesName": "Revavroom",
     "dex": 966,
-    "attackStat": 135.6
+    "attackStat": 133.2
   },
   {
     "speciesId": "trapinch",
     "speciesName": "Trapinch",
     "dex": 328,
-    "attackStat": 148.7
+    "attackStat": 149.6
   },
   {
     "speciesId": "exeggutor",
     "speciesName": "Exeggutor",
     "dex": 103,
-    "attackStat": 136.1
+    "attackStat": 134.4
   },
   {
     "speciesId": "falinks",
     "speciesName": "Falinks",
     "dex": 870,
-    "attackStat": 127.5
+    "attackStat": 126.3
   },
   {
     "speciesId": "mr_mime_galarian",
     "speciesName": "Mr. Mime (Galarian)",
     "dex": 122,
-    "attackStat": 130.4
+    "attackStat": 128.8
   },
   {
     "speciesId": "tentacool",
     "speciesName": "Tentacool",
     "dex": 72,
-    "attackStat": 94.1
+    "attackStat": 94.6
   },
   {
     "speciesId": "comfey",
     "speciesName": "Comfey",
     "dex": 764,
-    "attackStat": 116.2
+    "attackStat": 115.2
   },
   {
     "speciesId": "arboliva",
     "speciesName": "Arboliva",
     "dex": 930,
-    "attackStat": 129.2
+    "attackStat": 127.4
   },
   {
     "speciesId": "cursola",
     "speciesName": "Cursola",
     "dex": 864,
-    "attackStat": 145.6
+    "attackStat": 144.4
   },
   {
     "speciesId": "teddiursa",
     "speciesName": "Teddiursa",
     "dex": 216,
-    "attackStat": 131.5
+    "attackStat": 131
   },
   {
     "speciesId": "klinklang",
     "speciesName": "Klinklang",
     "dex": 601,
-    "attackStat": 124.2
+    "attackStat": 123.2
   },
   {
     "speciesId": "weavile",
     "speciesName": "Weavile",
     "dex": 461,
-    "attackStat": 141.9
+    "attackStat": 139.5
   },
   {
     "speciesId": "bonsly",
     "speciesName": "Bonsly",
     "dex": 438,
-    "attackStat": 116.8
+    "attackStat": 117.4
   },
   {
     "speciesId": "clamperl",
     "speciesName": "Clamperl",
     "dex": 366,
-    "attackStat": 124.3
+    "attackStat": 125.1
   },
   {
     "speciesId": "vileplume",
     "speciesName": "Vileplume",
     "dex": 45,
-    "attackStat": 128.8
+    "attackStat": 126.5
   },
   {
     "speciesId": "dugtrio_alolan",
     "speciesName": "Dugtrio (Alolan)",
     "dex": 51,
-    "attackStat": 148.1
+    "attackStat": 147
   },
   {
     "speciesId": "heliolisk",
     "speciesName": "Heliolisk",
     "dex": 695,
-    "attackStat": 138.1
+    "attackStat": 135.6
   },
   {
     "speciesId": "jynx",
     "speciesName": "Jynx",
     "dex": 124,
-    "attackStat": 141.2
+    "attackStat": 139.7
   },
   {
     "speciesId": "omastar",
     "speciesName": "Omastar",
     "dex": 139,
-    "attackStat": 126.6
+    "attackStat": 125.1
   },
   {
     "speciesId": "yanma",
     "speciesName": "Yanma",
     "dex": 193,
-    "attackStat": 130.8
+    "attackStat": 129
   },
   {
     "speciesId": "watchog",
     "speciesName": "Watchog",
     "dex": 505,
-    "attackStat": 125.1
+    "attackStat": 123.7
   },
   {
     "speciesId": "entei",
     "speciesName": "Entei",
     "dex": 244,
-    "attackStat": 129.3
+    "attackStat": 126.1
   },
   {
     "speciesId": "onix",
     "speciesName": "Onix",
     "dex": 95,
-    "attackStat": 84
+    "attackStat": 84.5
   },
   {
     "speciesId": "tsareena",
     "speciesName": "Tsareena",
     "dex": 763,
-    "attackStat": 130.4
+    "attackStat": 129.2
   },
   {
     "speciesId": "lycanroc_midday",
     "speciesName": "Lycanroc (Midday)",
     "dex": 745,
-    "attackStat": 142.7
+    "attackStat": 141.4
   },
   {
     "speciesId": "rotom_fan",
     "speciesName": "Rotom (Fan)",
     "dex": 479,
-    "attackStat": 128.8
+    "attackStat": 127.8
   },
   {
     "speciesId": "rotom_heat",
     "speciesName": "Rotom (Heat)",
     "dex": 479,
-    "attackStat": 128.8
+    "attackStat": 127.8
   },
   {
     "speciesId": "silicobra",
     "speciesName": "Silicobra",
     "dex": 843,
-    "attackStat": 99.1
+    "attackStat": 99.7
   },
   {
     "speciesId": "simisage",
     "speciesName": "Simisage",
     "dex": 512,
-    "attackStat": 135.9
+    "attackStat": 134.8
   },
   {
     "speciesId": "gardevoir",
     "speciesName": "Gardevoir",
     "dex": 282,
-    "attackStat": 136.5
+    "attackStat": 134.2
   },
   {
     "speciesId": "granbull",
     "speciesName": "Granbull",
     "dex": 210,
-    "attackStat": 135.3
+    "attackStat": 132.8
   },
   {
     "speciesId": "infernape",
     "speciesName": "Infernape",
     "dex": 392,
-    "attackStat": 136.6
+    "attackStat": 135.8
   },
   {
     "speciesId": "ponyta_galarian",
     "speciesName": "Ponyta (Galarian)",
     "dex": 77,
-    "attackStat": 133.5
+    "attackStat": 131.9
   },
   {
     "speciesId": "rhyhorn",
     "speciesName": "Rhyhorn",
     "dex": 111,
-    "attackStat": 112.5
+    "attackStat": 111.3
   },
   {
     "speciesId": "blissey",
     "speciesName": "Blissey",
     "dex": 242,
-    "attackStat": 81
+    "attackStat": 79.9
   },
   {
     "speciesId": "luxio",
     "speciesName": "Luxio",
     "dex": 404,
-    "attackStat": 133.2
+    "attackStat": 132
   },
   {
     "speciesId": "persian_alolan",
     "speciesName": "Persian (Alolan)",
     "dex": 53,
-    "attackStat": 122.4
+    "attackStat": 120.6
   },
   {
     "speciesId": "rotom_wash",
     "speciesName": "Rotom (Wash)",
     "dex": 479,
-    "attackStat": 128.8
+    "attackStat": 127.8
   },
   {
     "speciesId": "drowzee",
     "speciesName": "Drowzee",
     "dex": 96,
-    "attackStat": 87.3
+    "attackStat": 87.9
   },
   {
     "speciesId": "diancie",
     "speciesName": "Diancie",
     "dex": 719,
-    "attackStat": 119.1
+    "attackStat": 116.3
   },
   {
     "speciesId": "seel",
     "speciesName": "Seel",
     "dex": 86,
-    "attackStat": 84
+    "attackStat": 84.5
   },
   {
     "speciesId": "porygon2",
     "speciesName": "Porygon2",
     "dex": 233,
-    "attackStat": 122.1
+    "attackStat": 121.2
   },
   {
     "speciesId": "stakataka",
     "speciesName": "Stakataka",
     "dex": 805,
-    "attackStat": 119.5
+    "attackStat": 117.8
   },
   {
     "speciesId": "ursaluna",
     "speciesName": "Ursaluna",
     "dex": 901,
-    "attackStat": 125.6
+    "attackStat": 123.6
   },
   {
     "speciesId": "exeggcute",
     "speciesName": "Exeggcute",
     "dex": 102,
-    "attackStat": 102.5
+    "attackStat": 103.1
   },
   {
     "speciesId": "fuecoco",
     "speciesName": "Fuecoco",
     "dex": 909,
-    "attackStat": 106.7
+    "attackStat": 107.3
   },
   {
     "speciesId": "tangela",
     "speciesName": "Tangela",
     "dex": 114,
-    "attackStat": 125.5
+    "attackStat": 123.4
   },
   {
     "speciesId": "thwackey",
     "speciesName": "Thwackey",
     "dex": 811,
-    "attackStat": 123.6
+    "attackStat": 122.2
   },
   {
     "speciesId": "simisear",
     "speciesName": "Simisear",
     "dex": 514,
-    "attackStat": 135.9
+    "attackStat": 134.8
   },
   {
     "speciesId": "lilligant_hisuian",
     "speciesName": "Lilligant (Hisuian)",
     "dex": 549,
-    "attackStat": 133.4
+    "attackStat": 131.7
   },
   {
     "speciesId": "toedscool",
     "speciesName": "Toedscool",
     "dex": 948,
-    "attackStat": 94.1
+    "attackStat": 94.6
   },
   {
     "speciesId": "cubone",
     "speciesName": "Cubone",
     "dex": 104,
-    "attackStat": 88.2
+    "attackStat": 88.7
   },
   {
     "speciesId": "shaymin_land",
     "speciesName": "Shaymin (Land)",
     "dex": 492,
-    "attackStat": 117.8
+    "attackStat": 117.3
   },
   {
     "speciesId": "braviary",
     "speciesName": "Braviary",
     "dex": 628,
-    "attackStat": 133.7
+    "attackStat": 133.2
   },
   {
     "speciesId": "flaaffy",
     "speciesName": "Flaaffy",
     "dex": 180,
-    "attackStat": 121.5
+    "attackStat": 119.6
   },
   {
     "speciesId": "tranquill",
     "speciesName": "Tranquill",
     "dex": 520,
-    "attackStat": 123.9
+    "attackStat": 122.5
   },
   {
     "speciesId": "crabominable",
     "speciesName": "Crabominable",
     "dex": 740,
-    "attackStat": 136.8
+    "attackStat": 136.2
   },
   {
     "speciesId": "eelektross",
     "speciesName": "Eelektross",
     "dex": 604,
-    "attackStat": 133.8
+    "attackStat": 131.8
   },
   {
     "speciesId": "oricorio_baile",
     "speciesName": "Oricorio (Baile)",
     "dex": 741,
-    "attackStat": 130.8
+    "attackStat": 129.5
   },
   {
     "speciesId": "darmanitan_galarian_standard",
     "speciesName": "Darmanitan (Galarian)",
     "dex": 555,
-    "attackStat": 149.7
+    "attackStat": 149
   },
   {
     "speciesId": "stufful",
     "speciesName": "Stufful",
     "dex": 759,
-    "attackStat": 124.8
+    "attackStat": 123.4
   },
   {
     "speciesId": "dragapult",
     "speciesName": "Dragapult",
     "dex": 887,
-    "attackStat": 142.5
+    "attackStat": 141.4
   },
   {
     "speciesId": "glimmora",
     "speciesName": "Glimmora",
     "dex": 970,
-    "attackStat": 137.6
+    "attackStat": 135.4
   },
   {
     "speciesId": "stunky",
     "speciesName": "Stunky",
     "dex": 434,
-    "attackStat": 114.2
+    "attackStat": 114.9
   },
   {
     "speciesId": "mr_rime",
     "speciesName": "Mr. Rime",
     "dex": 866,
-    "attackStat": 127.4
+    "attackStat": 126.6
   },
   {
     "speciesId": "stonjourner",
     "speciesName": "Stonjourner",
     "dex": 874,
-    "attackStat": 125.5
+    "attackStat": 124
   },
   {
     "speciesId": "persian",
     "speciesName": "Persian",
     "dex": 53,
-    "attackStat": 118.6
+    "attackStat": 117.6
   },
   {
     "speciesId": "carracosta",
     "speciesName": "Carracosta",
     "dex": 565,
-    "attackStat": 121.4
+    "attackStat": 119.5
   },
   {
     "speciesId": "yanmega",
     "speciesName": "Yanmega",
     "dex": 469,
-    "attackStat": 136.8
+    "attackStat": 134.4
   },
   {
     "speciesId": "phanpy",
     "speciesName": "Phanpy",
     "dex": 231,
-    "attackStat": 102.5
+    "attackStat": 103.1
   },
   {
     "speciesId": "cinccino",
     "speciesName": "Cinccino",
     "dex": 573,
-    "attackStat": 134.9
+    "attackStat": 133.5
   },
   {
     "speciesId": "kingler",
     "speciesName": "Kingler",
     "dex": 99,
-    "attackStat": 144.5
+    "attackStat": 143.3
   },
   {
     "speciesId": "popplio",
     "speciesName": "Popplio",
     "dex": 728,
-    "attackStat": 113.4
+    "attackStat": 114.1
   },
   {
     "speciesId": "ribombee",
     "speciesName": "Ribombee",
     "dex": 743,
-    "attackStat": 136.2
+    "attackStat": 134.2
   },
   {
     "speciesId": "vanilluxe",
     "speciesName": "Vanilluxe",
     "dex": 584,
-    "attackStat": 131.5
+    "attackStat": 130.2
   },
   {
     "speciesId": "vivillon",
     "speciesName": "Vivillon",
     "dex": 666,
-    "attackStat": 131.7
+    "attackStat": 130.3
   },
   {
     "speciesId": "raticate",
     "speciesName": "Raticate",
     "dex": 20,
-    "attackStat": 125.9
+    "attackStat": 124
   },
   {
     "speciesId": "simipour",
     "speciesName": "Simipour",
     "dex": 516,
-    "attackStat": 135.9
+    "attackStat": 134.8
   },
   {
     "speciesId": "archeops",
     "speciesName": "Archeops",
     "dex": 567,
-    "attackStat": 160.6
+    "attackStat": 159
   },
   {
     "speciesId": "boldore",
     "speciesName": "Boldore",
     "dex": 525,
-    "attackStat": 124.4
+    "attackStat": 122.9
   },
   {
     "speciesId": "archen",
     "speciesName": "Archen",
     "dex": 566,
-    "attackStat": 159.5
+    "attackStat": 157.1
   },
   {
     "speciesId": "beautifly",
     "speciesName": "Beautifly",
     "dex": 267,
-    "attackStat": 144.7
+    "attackStat": 142.8
   },
   {
     "speciesId": "lycanroc_dusk",
     "speciesName": "Lycanroc (Dusk)",
     "dex": 745,
-    "attackStat": 144.5
+    "attackStat": 142.7
   },
   {
     "speciesId": "azelf",
     "speciesName": "Azelf",
     "dex": 482,
-    "attackStat": 152.5
+    "attackStat": 150.8
   },
   {
     "speciesId": "musharna",
     "speciesName": "Musharna",
     "dex": 518,
-    "attackStat": 113.1
+    "attackStat": 112
   },
   {
     "speciesId": "noivern",
     "speciesName": "Noivern",
     "dex": 715,
-    "attackStat": 125.4
+    "attackStat": 123.9
   },
   {
     "speciesId": "glimmet",
     "speciesName": "Glimmet",
     "dex": 969,
-    "attackStat": 147.1
+    "attackStat": 145.1
   },
   {
     "speciesId": "indeedee_female",
     "speciesName": "Indeedee (Female)",
     "dex": 876,
-    "attackStat": 121.7
+    "attackStat": 120.4
   },
   {
     "speciesId": "garbodor",
     "speciesName": "Garbodor",
     "dex": 569,
-    "attackStat": 121
+    "attackStat": 119.6
   },
   {
     "speciesId": "lombre",
     "speciesName": "Lombre",
     "dex": 271,
-    "attackStat": 106.7
+    "attackStat": 107.3
   },
   {
     "speciesId": "masquerain",
     "speciesName": "Masquerain",
     "dex": 284,
-    "attackStat": 129.5
+    "attackStat": 128.2
   },
   {
     "speciesId": "whirlipede",
     "speciesName": "Whirlipede",
     "dex": 544,
-    "attackStat": 96.6
+    "attackStat": 97.2
   },
   {
     "speciesId": "sigilyph",
     "speciesName": "Sigilyph",
     "dex": 561,
-    "attackStat": 130
+    "attackStat": 128.4
   },
   {
     "speciesId": "dwebble",
     "speciesName": "Dwebble",
     "dex": 557,
-    "attackStat": 111.7
+    "attackStat": 112.4
   },
   {
     "speciesId": "rowlet",
     "speciesName": "Rowlet",
     "dex": 722,
-    "attackStat": 98.3
+    "attackStat": 98.9
   },
   {
     "speciesId": "skorupi",
     "speciesName": "Skorupi",
     "dex": 451,
-    "attackStat": 90.7
+    "attackStat": 91.2
   },
   {
     "speciesId": "chinchou",
     "speciesName": "Chinchou",
     "dex": 170,
-    "attackStat": 101.6
+    "attackStat": 102.2
   },
   {
     "speciesId": "arcanine_hisuian",
     "speciesName": "Arcanine (Hisuian)",
     "dex": 59,
-    "attackStat": 132.4
+    "attackStat": 131.4
   },
   {
     "speciesId": "eevee",
     "speciesName": "Eevee",
     "dex": 133,
-    "attackStat": 99.9
+    "attackStat": 100.5
   },
   {
     "speciesId": "mothim",
     "speciesName": "Mothim",
     "dex": 414,
-    "attackStat": 140
+    "attackStat": 138.1
   },
   {
     "speciesId": "geodude",
     "speciesName": "Geodude",
     "dex": 74,
-    "attackStat": 123.5
+    "attackStat": 124.2
   },
   {
     "speciesId": "plusle",
     "speciesName": "Plusle",
     "dex": 311,
-    "attackStat": 128.2
+    "attackStat": 126.6
   },
   {
     "speciesId": "corphish",
     "speciesName": "Corphish",
     "dex": 341,
-    "attackStat": 131
+    "attackStat": 131.8
   },
   {
     "speciesId": "oricorio_sensu",
     "speciesName": "Oricorio (Sensu)",
     "dex": 741,
-    "attackStat": 130.8
+    "attackStat": 129.5
   },
   {
     "speciesId": "illumise",
     "speciesName": "Illumise",
     "dex": 314,
-    "attackStat": 111.4
+    "attackStat": 109.3
   },
   {
     "speciesId": "boltund",
     "speciesName": "Boltund",
     "dex": 836,
-    "attackStat": 136.9
+    "attackStat": 134.1
   },
   {
     "speciesId": "bulbasaur",
     "speciesName": "Bulbasaur",
     "dex": 1,
-    "attackStat": 111.7
+    "attackStat": 112.4
   },
   {
     "speciesId": "clauncher",
     "speciesName": "Clauncher",
     "dex": 692,
-    "attackStat": 103.3
+    "attackStat": 103.9
   },
   {
     "speciesId": "sunflora",
     "speciesName": "Sunflora",
     "dex": 192,
-    "attackStat": 128.7
+    "attackStat": 127.2
   },
   {
     "speciesId": "totodile",
     "speciesName": "Totodile",
     "dex": 158,
-    "attackStat": 110.9
+    "attackStat": 111.5
   },
   {
     "speciesId": "beheeyem",
     "speciesName": "Beheeyem",
     "dex": 606,
-    "attackStat": 134.4
+    "attackStat": 133.6
   },
   {
     "speciesId": "ambipom",
     "speciesName": "Ambipom",
     "dex": 424,
-    "attackStat": 133.8
+    "attackStat": 132.7
   },
   {
     "speciesId": "oricorio_pau",
     "speciesName": "Oricorio (Pa'u)",
     "dex": 741,
-    "attackStat": 130.8
+    "attackStat": 129.5
   },
   {
     "speciesId": "drizzile",
     "speciesName": "Drizzile",
     "dex": 817,
-    "attackStat": 137.8
+    "attackStat": 136.6
   },
   {
     "speciesId": "koffing",
     "speciesName": "Koffing",
     "dex": 109,
-    "attackStat": 112.6
+    "attackStat": 113.2
   },
   {
     "speciesId": "rotom_frost",
     "speciesName": "Rotom (Frost)",
     "dex": 479,
-    "attackStat": 128.8
+    "attackStat": 127.8
   },
   {
     "speciesId": "seadra",
     "speciesName": "Seadra",
     "dex": 117,
-    "attackStat": 131.3
+    "attackStat": 130.4
   },
   {
     "speciesId": "liepard",
     "speciesName": "Liepard",
     "dex": 510,
-    "attackStat": 139.7
+    "attackStat": 138.5
   },
   {
     "speciesId": "sawsbuck",
     "speciesName": "Sawsbuck",
     "dex": 586,
-    "attackStat": 129.4
+    "attackStat": 128.2
   },
   {
     "speciesId": "krabby",
     "speciesName": "Krabby",
     "dex": 98,
-    "attackStat": 148
+    "attackStat": 145.7
   },
   {
     "speciesId": "loudred",
     "speciesName": "Loudred",
     "dex": 294,
-    "attackStat": 125.2
+    "attackStat": 124.2
   },
   {
     "speciesId": "chespin",
     "speciesName": "Chespin",
     "dex": 650,
-    "attackStat": 105
+    "attackStat": 105.6
   },
   {
     "speciesId": "maractus",
     "speciesName": "Maractus",
     "dex": 556,
-    "attackStat": 135.5
+    "attackStat": 134.2
   },
   {
     "speciesId": "stantler",
     "speciesName": "Stantler",
     "dex": 234,
-    "attackStat": 132.1
+    "attackStat": 132
   },
   {
     "speciesId": "golem",
     "speciesName": "Golem",
     "dex": 76,
-    "attackStat": 125.1
+    "attackStat": 123.3
   },
   {
     "speciesId": "snubbull",
     "speciesName": "Snubbull",
     "dex": 209,
-    "attackStat": 127.7
+    "attackStat": 128.4
   },
   {
     "speciesId": "tatsugiri_curly",
     "speciesName": "Tatsugiri (Curly)",
     "dex": 978,
-    "attackStat": 137.4
+    "attackStat": 136.6
   },
   {
     "speciesId": "tatsugiri_droopy",
     "speciesName": "Tatsugiri (Droopy)",
     "dex": 978,
-    "attackStat": 137.4
+    "attackStat": 136.6
   },
   {
     "speciesId": "tatsugiri_stretchy",
     "speciesName": "Tatsugiri (Stretchy)",
     "dex": 978,
-    "attackStat": 137.4
+    "attackStat": 136.6
   },
   {
     "speciesId": "piplup",
     "speciesName": "Piplup",
     "dex": 393,
-    "attackStat": 106.7
+    "attackStat": 107.3
   },
   {
     "speciesId": "swirlix",
     "speciesName": "Swirlix",
     "dex": 684,
-    "attackStat": 104.1
+    "attackStat": 104.8
   },
   {
     "speciesId": "rhydon",
     "speciesName": "Rhydon",
     "dex": 112,
-    "attackStat": 126.2
+    "attackStat": 125.1
   },
   {
     "speciesId": "shaymin_sky",
     "speciesName": "Shaymin (Sky)",
     "dex": 492,
-    "attackStat": 139.3
+    "attackStat": 137.2
   },
   {
     "speciesId": "frogadier",
     "speciesName": "Frogadier",
     "dex": 657,
-    "attackStat": 134.4
+    "attackStat": 133
   },
   {
     "speciesId": "varoom",
     "speciesName": "Varoom",
     "dex": 965,
-    "attackStat": 115.9
+    "attackStat": 116.6
   },
   {
     "speciesId": "wugtrio",
     "speciesName": "Wugtrio",
     "dex": 961,
-    "attackStat": 151
+    "attackStat": 149.9
   },
   {
     "speciesId": "braviary_hisuian",
     "speciesName": "Braviary (Hisuian)",
     "dex": 628,
-    "attackStat": 128.5
+    "attackStat": 127.2
   },
   {
     "speciesId": "gumshoos",
     "speciesName": "Gumshoos",
     "dex": 735,
-    "attackStat": 134.2
+    "attackStat": 132.1
   },
   {
     "speciesId": "glaceon",
     "speciesName": "Glaceon",
     "dex": 471,
-    "attackStat": 135.7
+    "attackStat": 134.8
   },
   {
     "speciesId": "octillery",
     "speciesName": "Octillery",
     "dex": 224,
-    "attackStat": 131.5
+    "attackStat": 130.2
   },
   {
     "speciesId": "komala",
     "speciesName": "Komala",
     "dex": 775,
-    "attackStat": 136.8
+    "attackStat": 135.3
   },
   {
     "speciesId": "lycanroc_midnight",
     "speciesName": "Lycanroc (Midnight)",
     "dex": 745,
-    "attackStat": 132.6
+    "attackStat": 131.8
   },
   {
     "speciesId": "nosepass",
     "speciesName": "Nosepass",
     "dex": 299,
-    "attackStat": 81.5
+    "attackStat": 81.9
   },
   {
     "speciesId": "turtwig",
     "speciesName": "Turtwig",
     "dex": 387,
-    "attackStat": 112.6
+    "attackStat": 113.2
   },
   {
     "speciesId": "unfezant",
     "speciesName": "Unfezant",
     "dex": 521,
-    "attackStat": 138.5
+    "attackStat": 136.6
   },
   {
     "speciesId": "roggenrola",
     "speciesName": "Roggenrola",
     "dex": 524,
-    "attackStat": 114.2
+    "attackStat": 114.9
   },
   {
     "speciesId": "elgyem",
     "speciesName": "Elgyem",
     "dex": 605,
-    "attackStat": 133.6
+    "attackStat": 130.1
   },
   {
     "speciesId": "audino",
     "speciesName": "Audino",
     "dex": 531,
-    "attackStat": 92.6
+    "attackStat": 90.6
   },
   {
     "speciesId": "cherrim_overcast",
     "speciesName": "Cherrim (Overcast)",
     "dex": 421,
-    "attackStat": 121.8
+    "attackStat": 120.1
   },
   {
     "speciesId": "roselia",
     "speciesName": "Roselia",
     "dex": 315,
-    "attackStat": 138.5
+    "attackStat": 137.2
   },
   {
     "speciesId": "crabrawler",
     "speciesName": "Crabrawler",
     "dex": 739,
-    "attackStat": 135.7
+    "attackStat": 133.5
   },
   {
     "speciesId": "clawitzer",
     "speciesName": "Clawitzer",
     "dex": 693,
-    "attackStat": 134.4
+    "attackStat": 133.6
   },
   {
     "speciesId": "rampardos",
@@ -4443,204 +4443,204 @@
     "speciesId": "inteleon",
     "speciesName": "Inteleon",
     "dex": 818,
-    "attackStat": 153.4
+    "attackStat": 152.5
   },
   {
     "speciesId": "naganadel",
     "speciesName": "Naganadel",
     "dex": 804,
-    "attackStat": 149.7
+    "attackStat": 147.5
   },
   {
     "speciesId": "volbeat",
     "speciesName": "Volbeat",
     "dex": 313,
-    "attackStat": 111.4
+    "attackStat": 109.3
   },
   {
     "speciesId": "pupitar",
     "speciesName": "Pupitar",
     "dex": 247,
-    "attackStat": 120.1
+    "attackStat": 118.4
   },
   {
     "speciesId": "bergmite",
     "speciesName": "Bergmite",
     "dex": 712,
-    "attackStat": 110.9
+    "attackStat": 111.5
   },
   {
     "speciesId": "hoopa",
     "speciesName": "Hoopa",
     "dex": 720,
-    "attackStat": 144.8
+    "attackStat": 141.6
   },
   {
     "speciesId": "deerling",
     "speciesName": "Deerling",
     "dex": 585,
-    "attackStat": 109.2
+    "attackStat": 109.8
   },
   {
     "speciesId": "indeedee_male",
     "speciesName": "Indeedee (Male)",
     "dex": 876,
-    "attackStat": 134.9
+    "attackStat": 133.8
   },
   {
     "speciesId": "flabebe",
     "speciesName": "Flabebe",
     "dex": 669,
-    "attackStat": 103.3
+    "attackStat": 103.9
   },
   {
     "speciesId": "kadabra",
     "speciesName": "Kadabra",
     "dex": 64,
-    "attackStat": 163.8
+    "attackStat": 162.4
   },
   {
     "speciesId": "dottler",
     "speciesName": "Dottler",
     "dex": 825,
-    "attackStat": 85.7
+    "attackStat": 86.2
   },
   {
     "speciesId": "gorebyss",
     "speciesName": "Gorebyss",
     "dex": 368,
-    "attackStat": 136.2
+    "attackStat": 133.6
   },
   {
     "speciesId": "ferroseed",
     "speciesName": "Ferroseed",
     "dex": 597,
-    "attackStat": 81.5
+    "attackStat": 81.9
   },
   {
     "speciesId": "reuniclus",
     "speciesName": "Reuniclus",
     "dex": 579,
-    "attackStat": 126.9
+    "attackStat": 125.7
   },
   {
     "speciesId": "lilligant",
     "speciesName": "Lilligant",
     "dex": 549,
-    "attackStat": 136.5
+    "attackStat": 134
   },
   {
     "speciesId": "porygon_z",
     "speciesName": "Porygon-Z",
     "dex": 474,
-    "attackStat": 147.6
+    "attackStat": 145.9
   },
   {
     "speciesId": "accelgor",
     "speciesName": "Accelgor",
     "dex": 617,
-    "attackStat": 143.2
+    "attackStat": 140.9
   },
   {
     "speciesId": "axew",
     "speciesName": "Axew",
     "dex": 610,
-    "attackStat": 138.6
+    "attackStat": 136.5
   },
   {
     "speciesId": "butterfree",
     "speciesName": "Butterfree",
     "dex": 12,
-    "attackStat": 126.6
+    "attackStat": 125.2
   },
   {
     "speciesId": "meltan",
     "speciesName": "Meltan",
     "dex": 808,
-    "attackStat": 111.7
+    "attackStat": 112.4
   },
   {
     "speciesId": "munna",
     "speciesName": "Munna",
     "dex": 517,
-    "attackStat": 105.8
+    "attackStat": 106.5
   },
   {
     "speciesId": "skiddo",
     "speciesName": "Skiddo",
     "dex": 672,
-    "attackStat": 115.9
+    "attackStat": 116.6
   },
   {
     "speciesId": "duosion",
     "speciesName": "Duosion",
     "dex": 578,
-    "attackStat": 149.2
+    "attackStat": 147
   },
   {
     "speciesId": "deoxys_speed",
     "speciesName": "Deoxys (Speed)",
     "dex": 386,
-    "attackStat": 140.7
+    "attackStat": 135.6
   },
   {
     "speciesId": "tornadus_incarnate",
     "speciesName": "Tornadus (Incarnate)",
     "dex": 641,
-    "attackStat": 148.1
+    "attackStat": 144.9
   },
   {
     "speciesId": "solosis",
     "speciesName": "Solosis",
     "dex": 577,
-    "attackStat": 152
+    "attackStat": 150.4
   },
   {
     "speciesId": "anorith",
     "speciesName": "Anorith",
     "dex": 347,
-    "attackStat": 145.4
+    "attackStat": 143.4
   },
   {
     "speciesId": "clobbopus",
     "speciesName": "Clobbopus",
     "dex": 852,
-    "attackStat": 114.2
+    "attackStat": 114.9
   },
   {
     "speciesId": "regigigas",
     "speciesName": "Regigigas",
     "dex": 486,
-    "attackStat": 139.8
+    "attackStat": 138.2
   },
   {
     "speciesId": "clefairy",
     "speciesName": "Clefairy",
     "dex": 35,
-    "attackStat": 102.5
+    "attackStat": 103.1
   },
   {
     "speciesId": "spoink",
     "speciesName": "Spoink",
     "dex": 325,
-    "attackStat": 117.6
+    "attackStat": 116.3
   },
   {
     "speciesId": "unown",
     "speciesName": "Unown",
     "dex": 201,
-    "attackStat": 126.8
+    "attackStat": 127.6
   },
   {
     "speciesId": "slaking",
     "speciesName": "Slaking",
     "dex": 289,
-    "attackStat": 138.8
+    "attackStat": 136.9
   },
   {
     "speciesId": "cranidos",
     "speciesName": "Cranidos",
     "dex": 408,
-    "attackStat": 163.9
+    "attackStat": 162.2
   }
 ]
